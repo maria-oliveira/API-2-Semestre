@@ -22,12 +22,12 @@
 
 ## Descrição
 
-> > Desenvolvimento de Aplicação de Cálculo de Sequências Lógicas. Projeto desenvolvido para trabalho acadêmico no curso de Banco de Dados na FATEC SJC.
+> > 
 
 ## Tecnologias Utilizadas
 
-- 💻 **Linguagem:** Portugol
-- 🔧 **Ferramentas:**  VisuAlg, Trello, Notion, Git e GitHub
+- 💻 **Linguagem:** 
+- 🔧 **Ferramentas:**  
 - 🗃️ **Metodologia:** Scrum
 
 ## Funcionalidades
@@ -209,8 +209,6 @@
 </details>
 
 ## Documentação
-
-[Manual do Usuário]()
   
 ## Código
 
