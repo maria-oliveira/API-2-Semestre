@@ -23,7 +23,7 @@
 ## Descrição
 
 ## Critério de Permanencia na Equipe
-- 
+# 
 
 > > 
 
