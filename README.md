@@ -42,7 +42,7 @@
 
 <!--Sprint 1-->
 <details>
-  <summary>Sprint 3</summary>
+  <summary>Sprint 1</summary>
   <ul>
     <li>
       <div>
@@ -98,7 +98,7 @@
 
 <!--Sprint 2-->
 <details>
-  <summary>Sprint 3</summary>
+  <summary>Sprint 2</summary>
   <ul>
     <li>
       <div>
