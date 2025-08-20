@@ -158,32 +158,26 @@
           </thead>
           <tbody>
             <tr>
-              <td>Menu</td>
-              <td>Como usuário, gostaria de poder interagir com todas as funções do programa, sendo ele a parte principal do programa</td>
-              <td>Alta</td>
-              <td>Concluída</td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
             </tr>
             <tr>
-              <td>Números triangulares</td>
-              <td>
-                Como usuário, gostaria de ter duas formas de interagir com essa sequência: 1. Exigir o valor da posição de um número dessa sequência 2. Exigir uma lista de todos os valores de                     posições anteriores de uma posição desejada dessa sequência. A sequência deve seguir a seguinte regra: o valor de uma posição da sequência é dado pela devida fórmula: Tn =                         n(n+1)/2, em que n é a posição do valor a ser calculado
-              </td>
-              <td>Alta</td>
-              <td>Concluída</td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
             </tr>
             <tr>
-              <td>Sequência alternada</td>
-              <td>
-                Como usuário, gostaria de ter duas formas de interagir com essa sequência: 1. Exigir o valor da posição de um número dessa sequência 2. Exigir uma lista de todos os valores de                     posições anteriores de uma posição desejada dessa sequência. A sequência deve seguir a seguinte regra: serão exibidos apenas números ímpares, variando entre valores positivos e                    negativos, começando com um valor positivo
-              </td>
-              <td>Média</td>
-              <td>Concluída</td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
             </tr>
             <tr>
-              <td>Sequência geométrica</td>
-              <td>
-                .
-              </td>
+              <td></td>
+              <td></td>
               <td></td>
               <td></td>
             </tr>
