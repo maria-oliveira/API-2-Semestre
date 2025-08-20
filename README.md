@@ -61,33 +61,12 @@
           </thead>
           <tbody>
             <tr>
-              <td>Menu</td>
-              <td>Como usuário, gostaria de poder interagir com todas as funções do programa, sendo ele a parte principal do programa</td>
-              <td>Alta</td>
-              <td>Movido para a próxima Sprint</td>
+             
             </tr>
             <tr>
               <td>Sequência Fibonacci</td>
               <td>
-                Como usuário, gostaria de ter duas formas de interagir com essa sequência: 1. Exigir o valor da posição de um número dessa sequência 2. Exigir uma lista de                 todos os valores de posições anteriores de uma posição desejada dessa sequência. A sequência deve seguir a seguinte regra: o valor de uma posição da                        sequência é igual a soma das DUAS posições anteriores, sendo que os dois primeiros valores da sequência são iguais a 1
-              </td>
-              <td>Alta</td>
-              <td>Concluída</td>
             </tr>
-            <tr>
-              <td>Números fatoriais</td>
-              <td>Como usuário, gostaria de um programa que me peça um número e, com base nele, me retornar apenas o fatorial dele</td>
-              <td>Média</td>
-              <td>Concluída</td>
-            </tr>
-            <tr>
-              <td>Números Cúbicos</td>
-              <td>Como usuário, gostaria de um programa que me peça um número e, com base nele, me retornar apenas o número escolhido elevado a TRÊS</td>
-              <td>Baixa</td>
-              <td>Concluída</td>
-            </tr>
-          </tbody>
-        </table>
       </div></li>
     <li>
       <h2>
