@@ -221,7 +221,7 @@
  | -           | -                                        | -        | 
  |Team Member  | Gabriel Valente Belarmino                |  [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/gabrielvalentesjc)|
  |Team Member  | Guilherme Almeida de Arruda              |   [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/guiggaaz)|
- |Team Member  | Paulo            |   [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)|
+ |Team Member  | Paulo Henrique Silva Cumbica             |   [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/cumbicaphs)|
  |Scrum Master | Leonardo Amon Sumiyoshi Hashimoto        |   [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Leonardo1022) |
  |Product Owner| Maria Eduarda Teixeira Miller de Oliveira|  [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/maria-oliveira)|
  |Team Member  | Natália Pereira da Silva                 |  [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/nataliapersis)|
