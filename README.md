@@ -1,4 +1,3 @@
-![Aprendizado Por Projeto Integrado (1)](https://github.com/user-attachments/assets/9f28fe3d-6635-4eca-8655-17f9e63a8e02)
 
 ## Tópicos 
 
@@ -252,19 +251,22 @@
 
 ## Documentação
 
-[Manual do Usuário](https://manual-usuario-api.netlify.app/)
+[Manual do Usuário]()
   
 ## Código
-
-[Código do programa - main.ALG](https://github.com/gabrielvalentesjc/API/blob/main/main.ALG)
 
 ## Equipe
 
  | Função      | Nome                                     |  Github  |
  | -           | -                                        | -        | 
- |Product Owner| Leonardo Amon Sumiyoshi Hashimoto        |   [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Leonardo1022) |
- |Scrum Master | Gabriel Valente Belarmino                |  [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/gabrielvalentesjc)|
- |Team Member  | Maria Eduarda Teixeira Miller de Oliveira|  [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/maria-oliveira)|
+ |Scrum Master | Leonardo Amon Sumiyoshi Hashimoto        |   [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Leonardo1022) |
+ |Team Member  | Gabriel Valente Belarmino                |  [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/gabrielvalentesjc)|
+ |Product Owner| Maria Eduarda Teixeira Miller de Oliveira|  [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/maria-oliveira)|
  |Team Member  | Natália Pereira da Silva                 |  [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/nataliapersis)|
  |Team Member  | Niuan Spolidorio da Rocha Souza          |  [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/NiuanSouza)|
- |Team Member | Vitor Samuel Ribeiro de Souza            |   [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/VitorRibeiro09)|
+ |Team Member  | Vitor Samuel Ribeiro de Souza            |   [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/VitorRibeiro09)|
+ |Team Member  | Guilherme Almeida de Arruda              |   [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/guiggaaz)|
+ |Team Member  |             |   [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)|
+
+
+
