@@ -22,6 +22,9 @@
 
 ## Descrição
 
+## Critério de Permanencia na Equipe
+- 
+
 > > 
 
 ## Tecnologias Utilizadas
