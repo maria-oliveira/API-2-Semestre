@@ -1,26 +1,10 @@
 # TechForce - TG Control
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/adb62b93-78c0-4436-8ff7-2d5fe202f5f4" />
 
-
 ## Tópicos 
 
-:small_blue_diamond: [Descrição do projeto](#Descrição)
+:small_blue_diamond: [Descrição do projeto](#Descrição) | :small_blue_diamond: [Tecnologias Utilizadas](#Tecnologias-Utilizadas) | :small_blue_diamond: [Funcionalidades](#Funcionalidades) | :small_blue_diamond: [Backlog do Produto](#Backlog-do-Produto) | :small_blue_diamond: [Backlog da Sprint](#Backlog-da-Sprint) | :small_blue_diamond: [Burndown](#Burndown) | :small_blue_diamond: [Documentação](#Documentação) | :small_blue_diamond: [Código](#Codigo) | :small_blue_diamond: [Equipe](#Equipe)
 
-:small_blue_diamond: [Tecnologias Utilizadas](#Tecnologias-Utilizadas)
-
-:small_blue_diamond: [Funcionalidades](#Funcionalidades)
-
-:small_blue_diamond: [Backlog do Produto](#Backlog-do-Produto)
-
-:small_blue_diamond: [Backlog da Sprint](#Backlog-da-Sprint)
-
-:small_blue_diamond: [Burndown](#Burndown)
-
-:small_blue_diamond: [Documentação](#Documentação)
-
-:small_blue_diamond: [Código](#Codigo)
-
-:small_blue_diamond: [Equipe](#Equipe)
 
 ## Descrição
 
