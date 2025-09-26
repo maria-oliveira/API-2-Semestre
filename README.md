@@ -3,19 +3,16 @@
 
 ## Tópicos 
 
-:small_blue_diamond: [Descrição do projeto](#Descrição) | :small_blue_diamond: [Tecnologias Utilizadas](#Tecnologias-Utilizadas) | :small_blue_diamond: [Funcionalidades](#Funcionalidades) | :small_blue_diamond: [Backlog do Produto](#Backlog-do-Produto) | :small_blue_diamond: [Backlog da Sprint](#Backlog-da-Sprint) | :small_blue_diamond: [Burndown](#Burndown) | :small_blue_diamond: [Documentação](#Documentação) | :small_blue_diamond: [Código](#Codigo) | :small_blue_diamond: [Equipe](#Equipe)
+[Descrição do projeto](#Descrição) | [Tecnologias Utilizadas](#Tecnologias-Utilizadas) | [Funcionalidades](#Funcionalidades) | [Backlog do Produto](#Backlog-do-Produto) | [Backlog da Sprint](#Backlog-da-Sprint) | [Burndown](#Burndown) | [Documentação](#Documentação) | [Código](#Codigo) | [Equipe](#Equipe)
 
 
 ## Descrição
-
-## Critério de Permanencia na Equipe
-# 
 
 > > 
 
 ## Tecnologias Utilizadas
 
-- 💻 **Linguagem:** 
+- 💻 **Linguagem:** JAVA
 - 🔧 **Ferramentas:**  
 - 🗃️ **Metodologia:** Scrum
 
@@ -23,7 +20,7 @@
 
  ## Backlog do Produto
  
- | Função | User Story | Prioridade | Status |
+ | Rank | Prioridade | User Story | Estimativa | Sprint |
  | - | - | - | - |
  |  |  |  |  |
 
