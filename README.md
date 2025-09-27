@@ -3,10 +3,11 @@
 
 ## Tópicos 
 
-[Descrição do projeto](#Descrição) | [Tecnologias Utilizadas](#Tecnologias-Utilizadas) | [Funcionalidades](#Funcionalidades) | [Backlog do Produto](#Backlog-do-Produto) | [Backlog da Sprint](#Backlog-da-Sprint) | [Burndown](#Burndown) | [Documentação](#Documentação) | [Código](#Codigo) |                       [Equipe](#Equipe)
+[Descrição do projeto](#Descrição) | [Tecnologias Utilizadas](#Tecnologias-Utilizadas) | [Funcionalidades](#Funcionalidades) | [Backlog do Produto](#Backlog-do-Produto) | [Backlog da Sprint](#Backlog-da-Sprint) | [Burndown](#Burndown) | [Documentação](#Documentação) | [Código](#Codigo) | [Equipe](#Equipe)
 
 
 ## Descrição
+Gerenciar o ciclo dos Trabalhos de Graduação (TG) da modalidade Portfólio é um desafio para alunos, professores orientadores e coordenação, pois o processo de envio, correção e acompanhamento das seções ocorre de forma descentralizada em plataformas pouco adequadas (como e-mail institucional e MS Teams), o que gera atrasos, falha de notificações e risco de perda de mensagens; para os alunos, a dor está na demora dos feedbacks e na dificuldade de entregar o TG final em formato MD, enquanto os professores orientadores enfrentam problemas para manter histórico claro das correções e versões, e a coordenação tem dificuldade em monitorar o progresso dos trabalhos, o que torna essencial uma plataforma centralizada que organize, registre e acompanhe cada etapa, garantindo comunicação eficiente, rastreabilidade e geração facilitada do TG final.
 
 > > 
 
