@@ -24,15 +24,15 @@ Gerenciar o ciclo dos Trabalhos de Graduação (TG) da modalidade Portfólio é 
 
  ## Backlog do Produto
  
- | Rank | Prioridade | User Story | Estimativa | Sprint |
-|------|------------|------------|------------|--------|
-| 1 | Alta |[US01](#User-Stories) | | 2 |
-| 2 | Alta |[US02](#User-Stories) | | 2 |
-| 3 | Alta |[US03](#User-Stories) | | 2 |
-| 4 | Alta |[US04](#User-Stories) | | 2 |
-| 5 | Alta |[US05](#User-Stories) | | 2 |
-| 6 | Alta |[US06](#User-Stories) | | 2 |
-| 7 | Alta |[US07](#User-Stories) | | 2 |
+ | Rank | Prioridade | Item | User Story | Estimativa | Sprint |
+|------|------------|------|------------|------------|--------|
+| 1    | Alta       | Envio de Seções do TG | [US01](#User-Stories) |            | 2      |
+| 2    | Alta       | Correção e Feedback   | [US02](#User-Stories) |            | 2      |
+| 3    | Alta       | Histórico de Versões  | [US03](#User-Stories) |            | 2      |
+| 4    | Alta       | Notificações          | [US04](#User-Stories) |            | 2      |
+| 5    | Alta       | Controle de Acompanhamento | [US05](#User-Stories) |            | 2      |
+| 6    | Alta       | Implementar banco de dados | [US06](#User-Stories) |            | 2      |
+| 7    | Alta       | Geração Automática do TG Final | [US07](#User-Stories) |            | 2      |
 
 ## User Stories
 | ID   | User Story |
