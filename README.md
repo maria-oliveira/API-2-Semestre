@@ -55,7 +55,7 @@ Gerenciar o ciclo dos Trabalhos de Graduação (TG) da modalidade Portfólio é 
 <details>
   <summary>Sprint 1</summary>
   <div>
-    <h2>Backlog</h2>
+    <h2>Descrição da Sprint</h2>
     <table>
       <thead>
         <tr>
