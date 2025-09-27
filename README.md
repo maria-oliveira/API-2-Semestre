@@ -203,7 +203,16 @@ Gerenciar o ciclo dos Trabalhos de Graduação (TG) da modalidade Portfólio é 
   </ul>
 </details>
 
-## Documentação
+## 📄 Documentação do Projeto
+
+Toda a documentação do projeto está disponível na pasta [`documentacao`](./documentacao).
+
+### Conteúdo
+- Definition of Ready (DoR)
+- Definition of Done (DoD)
+- Estratégia de Branch – GitHub Flow
+- Padrão de Commits
+- Outros documentos relevantes
   
 ## Código
 
