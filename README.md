@@ -112,7 +112,6 @@ Toda a documentação do projeto está disponível na pasta [`documentacao`](./d
 - [` Padrão de Commits`](./documentação/Padrão-de-Commits)
 - Outros documentos relevantes
   
-## Código
 
 ## Equipe
 
