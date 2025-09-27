@@ -224,8 +224,8 @@ Toda a documentação do projeto está disponível na pasta [`documentacao`](./d
 ### Conteúdo
 - Definition of Ready ([`DoR`](./documentação/DOR))
 - Definition of Done  ( [`DoD`](./documentação/DOD))
-- ([` Estratégia de Branch`](./documentação/Estratégia-de-Branch))
-- ([` Padrão de Commits`](./documentação/Padrão-de-Commits)
+- [` Estratégia de Branch`](./documentação/Estratégia-de-Branch)
+- [` Padrão de Commits`](./documentação/Padrão-de-Commits)
 - Outros documentos relevantes
   
 ## Código
