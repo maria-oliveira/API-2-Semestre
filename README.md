@@ -205,7 +205,7 @@ Gerenciar o ciclo dos Trabalhos de Graduação (TG) da modalidade Portfólio é 
 
 ## 📄 Documentação do Projeto
 
-Toda a documentação do projeto está disponível na pasta [`documentacao`](./documentacao).
+Toda a documentação do projeto está disponível na pasta [`documentacao`](./documentação).
 
 ### Conteúdo
 - Definition of Ready (DoR)
