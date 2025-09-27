@@ -62,10 +62,10 @@ Gerenciar o ciclo dos Trabalhos de Graduação (TG) da modalidade Portfólio é 
         <table>
           <thead>
             <tr>
-              <th>Função</th>
-              <th>User Story</th>
-              <th>Prioridade</th>
-              <th>Status</th>
+  | Sprint | Período | Objetivo da Sprint | Descrição |
+|:------:|:-------:|:-----------------:|:----------:|
+| 1      | 27/09 - 28/09 | Entregar protótipo do sistema | Protótipo inicial da interface, com telas e botões interativos.|
+
             </tr>
           </thead>
           <tbody>
