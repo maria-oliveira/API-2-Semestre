@@ -1,62 +1,103 @@
-#✅ Definition of Ready (DoR) – TG Control 
-Uma User Story pode ser considerada pronta para entrar no desenvolvimento quando:
-##Clareza de Escopo
--O papel do usuário está definido.
--A funcionalidade tem uma descrição clara e sem ambiguidades.
--O objetivo esperado está alinhado à necessidade do usuário.
+# 🚀 Definição de Pronto (Definition of Ready - DoR)
 
-##Regras de Negócio Definidas
--Regras funcionais e de uso foram documentadas.
--Estados ou fluxos possíveis estão descritos.
--Comportamentos esperados do sistema estão claros (ex.: notificações, validações, formatos aceitos).
+Este documento define os critérios obrigatórios que uma User Story (US) deve atender para ser considerada **"Pronta para Desenvolvimento"** no projeto **TG Control**.
 
-##Critérios de Aceitação Documentados
--Existem critérios objetivos que permitem validar a entrega.
--Fluxos principais e exceções foram mapeados.
+Garantir que todos os critérios do DoR sejam cumpridos minimiza incertezas, evita bloqueios durante a sprint e assegura que a entrega final esteja alinhada às expectativas.
 
-##Dependências Identificadas
--Dependências técnicas e funcionais foram mapeadas.
--Integrações externas necessárias estão claras.
+---
 
-##Viabilidade Técnica
--O time possui conhecimento e recursos para implementar.
--Protótipos ou validações iniciais foram realizados (quando aplicável).
+## ✅ Critérios Gerais do DoR
 
-##US01:Como aluno, quero enviar minhas seções do TG diretamente para o orientador, para facilitar a entrega e não depender de muitos canais diferentes.
--Especificação do Envio: Definir os formatos de arquivo aceitos para envio (ex: .doc, .docx, .pdf, .md).
--Estrutura de Seções: A forma como o aluno divide e nomeia as seções no sistema está clara. 
--Interface de Envio: O layout mínimo da tela de envio (botão, campo de upload, etc.) foi prototipado.
+Uma User Story só pode entrar na fila de desenvolvimento (*Ready for Development*) quando os seguintes pontos forem validados e documentados:
 
-#US02:Como professor orientador, quero corrigir e devolver feedback diretamente no sistema para agilizar o processo de orientação.
-1. Funcionalidade de Anotação/Comentário: Definir o mecanismo de feedback (ex: anotações no texto/margem ou campo de texto livre). 
-2. Acesso à Edição: Está claro que o professor não edita o arquivo do aluno, apenas insere comentários. 
-3. Salvar Feedback: A regra de como e quando o feedback é salvo e "enviado" ao aluno está definida.
+### 1. Clareza de Escopo
+- **Papel do usuário** definido (e.g., Aluno, Professor Orientador).
+- Descrição da funcionalidade **clara e sem ambiguidades**.
+- Objetivo esperado **alinhado** à necessidade real do usuário.
 
-#US03:Como professor de TG/ Orientador, quero acessar as versões anteriores das seções enviadas para acompanhar a evolução do trabalho do aluno.
--Regra de Versionamento: Definir como o sistema identifica uma nova versão (ex: a cada novo upload do aluno). 
--Mecanismo de Comparação: Especificar se haverá uma ferramenta de diff (comparação) ou apenas acesso aos arquivos brutos de versões passadas.
--Interface de Histórico: O local onde o professor acessa o histórico de versões está prototipado.
+### 2. Regras de Negócio Definidas
+- Regras funcionais e de uso **documentadas**.
+- **Estados ou fluxos possíveis** (transições de status) descritos.
+- **Comportamentos esperados** do sistema (notificações, validações, formatos) claros.
 
-#US04:Como aluno, quero receber notificações quando meu professor responder para não perder prazos importantes. 
-Como professor, quero ser notificado quando um aluno enviar uma nova versão para não deixar passar revisões pendentes.
--Canais de Notificação: Definir onde a notificação será exibida (ex: in-app (dentro do sistema) e/ou por e-mail). 
--Conteúdo da Notificação: O texto/título mínimo da notificação está definido (ex: "Seção X revisada por Professor Y").
--Regras de Disparo: A ação que dispara a notificação (ex: o professor clica em "Enviar Feedback").
+### 3. Critérios de Aceitação Documentados
+- **Critérios de validação** objetivos (O que deve ser testado?).
+- Fluxos principais e de **exceção** mapeados.
 
-#US05:Como aluno, quero ver o status de cada seção (pendente, revisada, aceita) para saber meu progresso no TG. 
-Como professor, quero atualizar o status das seções corrigidas para indicar a evolução ao aluno.
--Definição dos Status: A lista final de todos os status possíveis está definida (ex: Pendente de Envio, Enviado/Em Revisão, Revisado, Aceito, Necessita Correção).
--Indicador Visual: Definir o elemento visual (cor, badge, ícone) para representar cada status na interface.
--Regra de Transição: Definir quais status o professor pode alterar manualmente.
--Interface de Ação: O local e a forma (botão, dropdown) para o professor alterar o status da seção estão claros no mockup.
+### 4. Dependências Identificadas
+- Dependências técnicas e funcionais **mapeadas**.
+- **Integrações externas** necessárias (se houver) documentadas.
 
-#US06:Como aluno, quero que minhas seções, versões e correções fiquem salvas, para não perder meu histórico e acompanhar minha evolução no trabalho.  
-Como professor, quero acessar facilmente os envios e versões dos alunos, para acompanhar o progresso de cada TG e manter registrado todo o processo de orientação.
--Política de Retenção: Definir por quanto tempo as versões e feedbacks devem ser mantidos no sistema após a conclusão do TG. 
--Exibição de Histórico: A interface que permite ao aluno visualizar o histórico completo de envios/feedbacks está prototipada.
--Mecanismo de Busca/Filtro: Os critérios mínimos para buscar e filtrar TGs/alunos (ex: Nome do Aluno, Status do TG) estão definidos.
+### 5. Viabilidade Técnica
+- O time possui **conhecimento e recursos** para a implementação.
+- **Protótipos ou Mockups** de alta fidelidade foram aprovados.
 
-#US07:Como aluno, quero gerar automaticamente meu TG consolidado em formato MD para entregar de acordo com o padrão exigido.
--Regra de Consolidação: Definir a ordem e a hierarquia que as seções aprovadas devem seguir no arquivo final. 
--Padrão de Formato MD: O padrão de formatação Markdown específico (ex: uso de front matter, cabeçalhos ##, etc.) exigido pela instituição está documentado. 
--Ação de Geração: O botão ou link para gerar o arquivo consolidado está definido na interface.
+---
+
+## 📌 DoR Específico por User Story
+
+Abaixo estão os requisitos adicionais específicos para cada funcionalidade.
+
+### US01: Envio de Seções
+> **Como aluno**, quero enviar minhas seções do TG diretamente para o orientador, para facilitar a entrega e não depender de muitos canais diferentes.
+
+| Item | Requisito Específico |
+| :--- | :--- |
+| **Envio** | Formatos de arquivo aceitos definidos (ex: `.doc`, `.docx`, `.pdf`, `.md`). |
+| **Estrutura** | Forma como o aluno **divide e nomeia** as seções no sistema está clara. |
+| **Interface** | Layout mínimo da tela de envio (botão, campo de upload) **prototipado**. |
+
+### US02: Correção e Feedback no Sistema
+> **Como professor orientador**, quero corrigir e devolver feedback diretamente no sistema para agilizar o processo de orientação.
+
+| Item | Requisito Específico |
+| :--- | :--- |
+| **Mecanismo** | Mecanismo de feedback definido (ex: anotações no texto/margem ou campo de texto livre). |
+| **Regra** | Confirmado que o professor **não edita o arquivo**, apenas insere comentários. |
+| **Fluxo** | Regra de **como e quando o feedback é salvo e "enviado"** ao aluno definida. |
+
+### US03: Acesso a Versões Anteriores
+> **Como professor de TG/ Orientador**, quero acessar as versões anteriores das seções enviadas para acompanhar a evolução do trabalho do aluno.
+
+| Item | Requisito Específico |
+| :--- | :--- |
+| **Versionamento** | Regra definida para identificar uma nova versão (ex: a cada novo upload). |
+| **Comparação** | Decisão tomada sobre o uso de **ferramenta de *diff*** ou apenas acesso aos arquivos brutos. |
+| **Interface** | Local de acesso ao histórico de versões **prototipado**. |
+
+### US04: Notificações (Aluno e Professor)
+> **Aluno:** Quero receber notificações quando meu professor responder. **Professor:** Quero ser notificado quando um aluno enviar nova versão.
+
+| Item | Requisito Específico |
+| :--- | :--- |
+| **Canais** | Canais de notificação definidos (ex: *in-app* e/ou por e-mail). |
+| **Conteúdo** | **Texto/título mínimo** da notificação definido (ex: "Seção X revisada"). |
+| **Disparo** | **Ação exata** que dispara a notificação (ex: clique em "Enviar Feedback"). |
+
+### US05: Status e Progresso
+> **Aluno:** Quero ver o status de cada seção. **Professor:** Quero atualizar o status das seções corrigidas.
+
+| Item | Requisito Específico |
+| :--- | :--- |
+| **Definição** | **Lista final de todos os status** possíveis definida (ex: Pendente, Em Revisão, Aceito). |
+| **Visual** | Elemento visual (cor, *badge*, ícone) para representar cada status na interface **definido**. |
+| **Transição** | Quais status o professor **pode alterar manualmente** definidos. |
+| **Ação** | Local e forma (botão, *dropdown*) para alteração de status **prototipados**. |
+
+### US06: Implementação Inicial do Banco de Dados
+> **Aluno:** Quero que seções, versões e correções fiquem salvas.
+
+| Item | Requisito Específico |
+| :--- | :--- |
+| **Retenção** | **Política de retenção** (por quanto tempo) de versões e feedbacks definida. |
+| **Visualização** | Interface de **visualização de histórico completo** para o aluno **prototipada**. |
+| **Busca** | Critérios mínimos para **busca e filtro** de TGs/alunos (ex: Nome, Status) definidos. |
+
+### US07: Geração Automática do TG Consolidado (Formato MD)
+> **Como aluno**, quero gerar automaticamente meu TG consolidado em formato MD para entregar de acordo com o padrão exigido.
+
+| Item | Requisito Específico |
+| :--- | :--- |
+| **Ordem** | **Regra de consolidação** (ordem e hierarquia das seções) definida. |
+| **Padrão** | **Padrão de formatação Markdown** específico (cabeçalhos, *front matter*) exigido pela instituição **documentado**. |
+| **Interface** | Botão ou *link* para gerar o arquivo consolidado **definido na interface**. |
