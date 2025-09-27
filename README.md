@@ -3,7 +3,7 @@
 
 ## Tópicos 
 
-[Descrição do projeto](#Descrição) | [Tecnologias Utilizadas](#Tecnologias-Utilizadas) | [Funcionalidades](#Funcionalidades) | [Backlog do Produto](#Backlog-do-Produto) | [User Stories](#User-Stories) [Backlog da Sprint](#Backlog-da-Sprint) | [Burndown](#Burndown) | [Documentação](#Documentação) | [Código](#Codigo) | [Equipe](#Equipe)
+[Descrição do projeto](#Descrição) | [Tecnologias Utilizadas](#Tecnologias-Utilizadas) | [Funcionalidades](#Funcionalidades) | [Backlog do Produto](#Backlog-do-Produto) | [User Stories](#User-Stories) [Backlog da Sprint](#Backlog-da-Sprint) | [Burndown](#Burndown) | [Documentação](#Documentação-do-Projeto) | [Código](#Codigo) | [Equipe](#Equipe)
 
 
 ## Descrição
@@ -222,9 +222,9 @@ Gerenciar o ciclo dos Trabalhos de Graduação (TG) da modalidade Portfólio é 
 Toda a documentação do projeto está disponível na pasta [`documentacao`](./documentação).
 
 ### Conteúdo
-- Definition of Ready (DoR)
-- Definition of Done (DoD)
-- Estratégia de Branch – GitHub Flow
+- Definition of Ready ([`DoR`](./documentação/DOR))
+- Definition of Done  ( [`DoD`](./documentação/DOD))
+- Estratégia de Branch
 - Padrão de Commits
 - Outros documentos relevantes
   
