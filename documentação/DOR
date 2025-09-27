@@ -1,10 +1,9 @@
-🚀 Definição de Pronto (Definition of Ready - DoR)
+🚀Definition of Ready - DoR
 
-Projeto: TG Control
 Objetivo: Estabelecer critérios obrigatórios para que uma User Story (US) seja considerada Pronta para Desenvolvimento, minimizando incertezas e evitando bloqueios durante a sprint.
 
 1. Critérios Gerais do DoR
-Uma User Story só pode entrar na fila de desenvolvimento (Ready for Development) quando todos os seguintes pontos forem validados:
+Uma User Story só pode entrar na fila de desenvolvimento quando todos os seguintes pontos forem validados:
 
 1.1 Clareza de Escopo
 Papel do usuário definido (ex.: Aluno, Professor Orientador).
