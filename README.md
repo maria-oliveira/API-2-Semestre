@@ -49,6 +49,8 @@ Gerenciar o ciclo dos Trabalhos de Graduação (TG) da modalidade Portfólio é 
 
 ## Sprints
 
+## Sprints
+
 <!--Sprint 1-->
 <details>
   <summary>Sprint 1</summary>
@@ -83,31 +85,7 @@ Gerenciar o ciclo dos Trabalhos de Graduação (TG) da modalidade Portfólio é 
   <summary>Sprint 2</summary>
   <div>
     <h2>Backlog</h2>
-    <table>
-      <thead>
-        <tr>
-          <th>Função</th>
-          <th>User Story</th>
-          <th>Prioridade</th>
-          <th>Status</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td>Aluno</td>
-          <td>[US01](#User-Stories) - Envio de Seções do TG</td>
-          <td>Alta</td>
-          <td>Pendente</td>
-        </tr>
-        <tr>
-          <td>Professor</td>
-          <td>[US02](#User-Stories) - Correção e Feedback</td>
-          <td>Alta</td>
-          <td>Pendente</td>
-        </tr>
-      </tbody>
-    </table>
-
+    <!-- Backlog vazio -->
     <h2>Burndown</h2>
   </div>
 </details>
@@ -117,34 +95,11 @@ Gerenciar o ciclo dos Trabalhos de Graduação (TG) da modalidade Portfólio é 
   <summary>Sprint 3</summary>
   <div>
     <h2>Backlog</h2>
-    <table>
-      <thead>
-        <tr>
-          <th>Função</th>
-          <th>User Story</th>
-          <th>Prioridade</th>
-          <th>Status</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td>Dev</td>
-          <td>[US06](#User-Stories) - Implementar banco de dados</td>
-          <td>Alta</td>
-          <td>Em andamento</td>
-        </tr>
-        <tr>
-          <td>Sistema</td>
-          <td>[US07](#User-Stories) - Geração Automática do TG Final</td>
-          <td>Alta</td>
-          <td>Pendente</td>
-        </tr>
-      </tbody>
-    </table>
-
+    <!-- Backlog vazio -->
     <h2>Burndown</h2>
   </div>
 </details>
+
 
 ## 📄 Documentação do Projeto
 
