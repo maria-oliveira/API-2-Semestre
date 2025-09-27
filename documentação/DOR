@@ -11,32 +11,30 @@ Garantir que todos os critérios do DoR sejam cumpridos minimiza incertezas, evi
 Uma User Story só pode entrar na fila de desenvolvimento (*Ready for Development*) quando os seguintes pontos forem validados e documentados:
 
 ### 1. Clareza de Escopo
-- **Papel do usuário** definido (e.g., Aluno, Professor Orientador).
-- Descrição da funcionalidade **clara e sem ambiguidades**.
-- Objetivo esperado **alinhado** à necessidade real do usuário.
+- **Papel do usuário** definido (e.g., Aluno, Professor Orientador).  
+- Descrição da funcionalidade **clara e sem ambiguidades**.  
+- Objetivo esperado **alinhado** à necessidade real do usuário.  
 
 ### 2. Regras de Negócio Definidas
-- Regras funcionais e de uso **documentadas**.
-- **Estados ou fluxos possíveis** (transições de status) descritos.
-- **Comportamentos esperados** do sistema (notificações, validações, formatos) claros.
+- Regras funcionais e de uso **documentadas**.  
+- **Estados ou fluxos possíveis** (transições de status) descritos.  
+- **Comportamentos esperados** do sistema (notificações, validações, formatos) claros.  
 
 ### 3. Critérios de Aceitação Documentados
-- **Critérios de validação** objetivos (O que deve ser testado?).
-- Fluxos principais e de **exceção** mapeados.
+- **Critérios de validação** objetivos (O que deve ser testado?).  
+- Fluxos principais e de **exceção** mapeados.  
 
 ### 4. Dependências Identificadas
-- Dependências técnicas e funcionais **mapeadas**.
-- **Integrações externas** necessárias (se houver) documentadas.
+- Dependências técnicas e funcionais **mapeadas**.  
+- **Integrações externas** necessárias (se houver) documentadas.  
 
 ### 5. Viabilidade Técnica
-- O time possui **conhecimento e recursos** para a implementação.
-- **Protótipos ou Mockups** de alta fidelidade foram aprovados.
+- O time possui **conhecimento e recursos** para a implementação.  
+- **Protótipos ou Mockups** de alta fidelidade foram aprovados.  
 
 ---
 
 ## 📌 DoR Específico por User Story
-
-Abaixo estão os requisitos adicionais específicos para cada funcionalidade.
 
 ### US01: Envio de Seções
 > **Como aluno**, quero enviar minhas seções do TG diretamente para o orientador, para facilitar a entrega e não depender de muitos canais diferentes.
@@ -66,7 +64,8 @@ Abaixo estão os requisitos adicionais específicos para cada funcionalidade.
 | **Interface** | Local de acesso ao histórico de versões **prototipado**. |
 
 ### US04: Notificações (Aluno e Professor)
-> **Aluno:** Quero receber notificações quando meu professor responder. **Professor:** Quero ser notificado quando um aluno enviar nova versão.
+> **Aluno:** Quero receber notificações quando meu professor responder.  
+> **Professor:** Quero ser notificado quando um aluno enviar nova versão.
 
 | Item | Requisito Específico |
 | :--- | :--- |
@@ -75,7 +74,8 @@ Abaixo estão os requisitos adicionais específicos para cada funcionalidade.
 | **Disparo** | **Ação exata** que dispara a notificação (ex: clique em "Enviar Feedback"). |
 
 ### US05: Status e Progresso
-> **Aluno:** Quero ver o status de cada seção. **Professor:** Quero atualizar o status das seções corrigidas.
+> **Aluno:** Quero ver o status de cada seção.  
+> **Professor:** Quero atualizar o status das seções corrigidas.
 
 | Item | Requisito Específico |
 | :--- | :--- |
