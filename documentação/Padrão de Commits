@@ -26,7 +26,7 @@ Esse padrão nos ajuda a:
 | feat       | Uma nova funcionalidade para o código.                                        | MINOR                    |
 | fix        | Uma correção de bug no código.                                                | PATCH                    |
 | docs       | Alterações na documentação (ex: README, CONTRIBUTING.md).                     | Não se aplica            |
-| style      | Alterações de formatação de código (espaços em branco, ponto e vírgula, etc.). | Não se aplica            |
+| style      | Alterações de formatação de código (espaços em branco, ponto e vírgula, etc.). | Não se aplica           |
 | refactor   | Alteração de código que não corrige bug nem adiciona recurso.                 | Não se aplica            |
 | perf       | Alteração de código que melhora o desempenho.                                 | Não se aplica            |
 | test       | Adição, remoção ou correção de testes.                                        | Não se aplica            |
@@ -62,12 +62,12 @@ BREAKING CHANGE: O campo 'username' agora aceita apenas caracteres alfanumérico
 
 ## 💡 Exemplos Práticos
 
-| **Exemplo**                                   | **Explicação**                                        |
-|-----------------------------------------------|------------------------------------------------------|
-| `feat(auth): adicionar autenticação de dois fatores` | Nova funcionalidade no módulo de autenticação.        |
-| `fix: corrigir erro de renderização no Safari`       | Correção de bug sem escopo.                          |
-| `refactor(db): simplificar query de busca por usuário` | Refatoração no código do banco de dados.             |
-| `docs: atualizar seções de uso da API`              | Alteração na documentação.                           |
-| `chore: configurar o linter com as regras do Airbnb` | Tarefa de infraestrutura/configuração.               |
+| **Exemplo**                                           | **Explicação**                                        |
+|-------------------------------------------------------|-------------------------------------------------------|
+| `feat(auth): adicionar autenticação de dois fatores`  | Nova funcionalidade no módulo de autenticação.        |
+| `fix: corrigir erro de renderização no Safari`        | Correção de bug sem escopo.                           |
+| `refactor(db): simplificar query de busca por usuário`| Refatoração no código do banco de dados.              |
+| `docs: atualizar seções de uso da API`                | Alteração na documentação.                            |
+| `chore: configurar o linter com as regras do Airbnb`  | Tarefa de infraestrutura/configuração.                |
 
 ---
