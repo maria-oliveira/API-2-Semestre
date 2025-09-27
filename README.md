@@ -26,13 +26,13 @@ Gerenciar o ciclo dos Trabalhos de Graduação (TG) da modalidade Portfólio é 
  
  | Rank | Prioridade | User Story | Estimativa | Sprint |
 |------|------------|------------|------------|--------|
-| 1 | Alta | Como aluno, quero enviar minhas seções do TG diretamente para o orientador, para facilitar a entrega e não depender de muitos canais diferentes. | | 2 |
-| 2 | Alta | Como professor orientador, quero corrigir e devolver feedback diretamente no sistema para agilizar o processo de orientação. | | 2 |
-| 3 | Alta | Como professor de TG/Orientador, quero acessar as versões anteriores das seções enviadas para acompanhar a evolução do trabalho do aluno. | | 2 |
-| 4 | Alta | Como aluno, quero receber notificações quando meu professor responder para não perder prazos importantes. <br>Como professor, quero ser notificado quando um aluno enviar uma nova versão para não deixar passar revisões pendentes. | | 2 |
-| 5 | Alta | Como aluno, quero ver o status de cada seção (pendente, revisada, aceita) para saber meu progresso no TG. <br>Como professor, quero atualizar o status das seções corrigidas para indicar a evolução ao aluno. | | 2 |
-| 6 | Alta | Como aluno, quero que minhas seções, versões e correções fiquem salvas, para não perder meu histórico e acompanhar minha evolução no trabalho. <br>Como professor, quero acessar facilmente os envios e versões dos alunos, para acompanhar o progresso de cada TG e manter registrado todo o processo de orientação. | | 2 |
-| 7 | Alta | Como aluno, quero gerar automaticamente meu TG consolidado em formato MD para entregar de acordo com o padrão exigido. | | 2 |
+| 1 | Alta |[US01](#User-Stories) | | 2 |
+| 2 | Alta |[US02](#User-Stories) | | 2 |
+| 3 | Alta |[US03](#User-Stories) | | 2 |
+| 4 | Alta |[US04](#User-Stories) | | 2 |
+| 5 | Alta |[US05](#User-Stories) | | 2 |
+| 6 | Alta |[US06](#User-Stories) | | 2 |
+| 7 | Alta |[US07](#User-Stories) | | 2 |
 
 ## User Stories
 | ID   | User Story |
