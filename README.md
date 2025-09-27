@@ -52,169 +52,98 @@ Gerenciar o ciclo dos Trabalhos de Graduação (TG) da modalidade Portfólio é 
 <!--Sprint 1-->
 <details>
   <summary>Sprint 1</summary>
-  <ul>
-    <li>
-      <div>
-        <h2>
-          Backlog
-        </h2>
-        <!-- Tabela -->
-        <table>
-          <thead>
-            <tr>
-  | Sprint | Período | Objetivo da Sprint | Descrição |
-|:------:|:-------:|:-----------------:|:----------:|
-| 1      | 27/09 - 28/09 | Entregar protótipo do sistema | Protótipo inicial da interface, com telas e botões interativos.|
+  <div>
+    <h2>Backlog</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Sprint</th>
+          <th>Período</th>
+          <th>Objetivo da Sprint</th>
+          <th>Descrição</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>1</td>
+          <td>27/09 - 28/09</td>
+          <td>Entregar protótipo do sistema</td>
+          <td>Protótipo inicial da interface, com telas e botões interativos.</td>
+        </tr>
+      </tbody>
+    </table>
 
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-            </tr>
-            <tr>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-            </tr>
-            <tr>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-            </tr>
-            <tr>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-            </tr>
-          </tbody>
-        </table>
-      </div></li>
-    <!--Burndown-->
-    <li>
-      <h2>
-        Burndown
-      </h2>
-    </li>
-  </ul>
+    <h2>Burndown</h2>
+    <!-- Aqui você pode colocar imagem ou gráfico do burndown -->
+  </div>
 </details>
 
 <!--Sprint 2-->
 <details>
   <summary>Sprint 2</summary>
-  <ul>
-    <li>
-      <div>
-        <h2>
-          Backlog
-        </h2>
-        <!-- Tabela -->
-        <table>
-          <thead>
-            <tr>
-              <th>Função</th>
-              <th>User Story</th>
-              <th>Prioridade</th>
-              <th>Status</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-            </tr>
-            <tr>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-            </tr>
-            <tr>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-            </tr>
-            <tr>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-            </tr>
-          </tbody>
-        </table>
-      </div></li>
-    <!--Burndown-->
-    <li>
-      <h2>
-        Burndown
-      </h2>
-    </li>
-  </ul>
+  <div>
+    <h2>Backlog</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Função</th>
+          <th>User Story</th>
+          <th>Prioridade</th>
+          <th>Status</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Aluno</td>
+          <td>[US01](#User-Stories) - Envio de Seções do TG</td>
+          <td>Alta</td>
+          <td>Pendente</td>
+        </tr>
+        <tr>
+          <td>Professor</td>
+          <td>[US02](#User-Stories) - Correção e Feedback</td>
+          <td>Alta</td>
+          <td>Pendente</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Burndown</h2>
+  </div>
 </details>
 
 <!--Sprint 3-->
 <details>
   <summary>Sprint 3</summary>
-  <ul>
-    <li>
-      <div>
-        <h2>
-          Backlog
-        </h2>
-        <!-- Tabela -->
-        <table>
-          <thead>
-            <tr>
-              <th>Função</th>
-              <th>User Story</th>
-              <th>Prioridade</th>
-              <th>Status</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-            </tr>
-            <tr>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-            </tr>
-            <tr>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-            </tr>
-            <tr>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-            </tr>
-          </tbody>
-        </table>
-      </div></li>
-    <!--Burndown-->
-    <li>
-      <h2>
-        Burndown
-      </h2>
-    </li>
-  </ul>
+  <div>
+    <h2>Backlog</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Função</th>
+          <th>User Story</th>
+          <th>Prioridade</th>
+          <th>Status</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Dev</td>
+          <td>[US06](#User-Stories) - Implementar banco de dados</td>
+          <td>Alta</td>
+          <td>Em andamento</td>
+        </tr>
+        <tr>
+          <td>Sistema</td>
+          <td>[US07](#User-Stories) - Geração Automática do TG Final</td>
+          <td>Alta</td>
+          <td>Pendente</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Burndown</h2>
+  </div>
 </details>
 
 ## 📄 Documentação do Projeto
