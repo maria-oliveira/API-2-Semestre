@@ -24,19 +24,20 @@ Gerenciar o ciclo dos Trabalhos de Graduação (TG) da modalidade Portfólio é 
 
  ## Backlog do Produto
  
- | Rank | Prioridade | Item | User Story | Estimativa | Sprint |
-|------|------------|------|------------|------------|--------|
-| 1    | Alta       | Envio de Seções do TG | [US01](#User-Stories) |            | 2      |
-| 2    | Alta       | Correção e Feedback   | [US02](#User-Stories) |            | 2      |
-| 3    | Alta       | Histórico de Versões  | [US03](#User-Stories) |            | 2      |
-| 4    | Alta       | Notificações          | [US04](#User-Stories) |            | 2      |
-| 5    | Alta       | Controle de Acompanhamento | [US05](#User-Stories) |            | 2      |
-| 6    | Alta       | Implementar banco de dados | [US06](#User-Stories) |            | 2      |
-| 7    | Alta       | Geração Automática do TG Final | [US07](#User-Stories) |            | 2      |
+| Rank | Prioridade | User Story | Descrição | Item | Estimativa | Sprint |
+|:----:|:----------:|:----------:|:---------:|:----:|:----------:|:------:|
+| 1    | Alta       | [US01](#User-Stories) | Aluno envia cada seção do TG em formato digital. | Envio de Seções do TG |                 | 2      |
+| 2    | Alta       | [US02](#User-Stories) | Professor faz anotações e devolve comentários ao aluno. | Correção e Feedback |            | 2      |
+| 3    | Alta       | [US03](#User-Stories) | Manter versões anteriores das seções para consulta. | Histórico de Versões |               | 2      |
+| 4    | Alta       | [US04](#User-Stories) | Alerta quando professor ou aluno envia/recebe seção. | Notificações |                      | 2      |
+| 5    | Alta       | [US05](#User-Stories) | Mostrar status de cada seção (pendente, em revisão, aceita). | Controle de Acompanhamento |            | 2      |
+| 6    | Alta       | [US06](#User-Stories) | Criar estrutura de armazenamento para seções do TG, feedbacks, versões, status e notificações. | Implementar banco de dados |            | 2      |
+| 7    | Alta       | [US07](#User-Stories) | Exportar documento consolidado no formato exigido. | Geração Automática do TG Final |                                                    | 2      |
+
 
 ## User Stories
 | ID   | User Story |
-|------|-------------------|
+|:----:|:--------------:|
 | US01 | Como aluno, quero enviar minhas seções do TG diretamente para o orientador, para facilitar a entrega e não depender de muitos canais diferentes. |
 | US02 | Como professor orientador, quero corrigir e devolver feedback diretamente no sistema para agilizar o processo de orientação. |
 | US03 | Como professor de TG/Orientador, quero acessar as versões anteriores das seções enviadas para acompanhar a evolução do trabalho do aluno. |
