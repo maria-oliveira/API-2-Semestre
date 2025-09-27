@@ -1,4 +1,4 @@
-##  Estratégia de Branch – GitHub Flow
+Estratégia de Branch – GitHub Flow
 
 1. Introdução
 Este documento descreve a estratégia de versionamento com Git e GitHub a ser utilizada no desenvolvimento do projeto. O objetivo é garantir um fluxo de trabalho organizado, manter a estabilidade do código principal e facilitar a colaboração entre os membros da equipe.
