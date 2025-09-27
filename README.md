@@ -68,7 +68,7 @@ Gerenciar o ciclo dos Trabalhos de Graduação (TG) da modalidade Portfólio é 
       <tbody>
         <tr>
           <td>1</td>
-          <td>27/09 - 28/09</td>
+          <td>08/09 - 28/09</td>
           <td>Entregar protótipo do sistema</td>
           <td>Protótipo inicial da interface, com telas e botões interativos.</td>
         </tr>
