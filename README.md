@@ -20,19 +20,18 @@ Gerenciar o ciclo dos Trabalhos de Graduação (TG) da modalidade Portfólio é 
 [![Scene Builder](https://img.shields.io/badge/Scene%20Builder-0091EA?logo=java&logoColor=white)](https://gluonhq.com/products/scene-builder/)
 [![JavaFX](https://img.shields.io/badge/JavaFX-FF0000?logo=openjdk&logoColor=white)](https://openjfx.io/)
 
-## Funcionalidades
 
  ## Backlog do Produto
  
 | Rank | Prioridade | User Story | Descrição | Item | Estimativa | Sprint |
 |:----:|:----------:|:----------:|:---------:|:----:|:----------:|:------:|
-| 1    | Alta       | [US01](#User-Stories) | Aluno envia cada seção do TG em formato digital. | Envio de Seções do TG |                 | 2      |
-| 2    | Alta       | [US02](#User-Stories) | Professor faz anotações e devolve comentários ao aluno. | Correção e Feedback |            | 2      |
-| 3    | Alta       | [US03](#User-Stories) | Manter versões anteriores das seções para consulta. | Histórico de Versões |               | 2      |
-| 4    | Alta       | [US04](#User-Stories) | Alerta quando professor ou aluno envia/recebe seção. | Notificações |                      | 2      |
-| 5    | Alta       | [US05](#User-Stories) | Mostrar status de cada seção (pendente, em revisão, aceita). | Controle de Acompanhamento |            | 2      |
-| 6    | Alta       | [US06](#User-Stories) | Criar estrutura de armazenamento para seções do TG, feedbacks, versões, status e notificações. | Implementar banco de dados |            | 2      |
-| 7    | Alta       | [US07](#User-Stories) | Exportar documento consolidado no formato exigido. | Geração Automática do TG Final |                                                    | 2      |
+| 1    | Alta       | [US01](#User-Stories) | Aluno envia cada seção do TG em formato digital. | Envio de Seções do TG |          6       | 2      |
+| 2    | Alta       | [US02](#User-Stories) | Professor faz anotações e devolve comentários ao aluno. | Correção e Feedback |      6      | 2      |
+| 3    | Alta       | [US03](#User-Stories) | Manter versões anteriores das seções para consulta. | Histórico de Versões |       5        | 2      |
+| 4    | Alta       | [US04](#User-Stories) | Alerta quando professor ou aluno envia/recebe seção. | Notificações |             6         | 2      |
+| 5    | Média       | [US05](#User-Stories) | Mostrar status de cada seção (pendente, em revisão, aceita). | Controle de Acompanhamento |    3        | 2      |
+| 6    | Média       | [US06](#User-Stories) | Criar estrutura de armazenamento para seções do TG, feedbacks, versões, status e notificações. | Implementar banco de dados |       12     | 2      |
+| 7    |Média      | [US07](#User-Stories) | Exportar documento consolidado no formato exigido. | Geração Automática do TG Final |  8                                                  | 2      |
 
 
 ## User Stories
@@ -72,9 +71,8 @@ Gerenciar o ciclo dos Trabalhos de Graduação (TG) da modalidade Portfólio é 
         </tr>
       </tbody>
     </table>
-
     <h2>Burndown</h2>
-    <!-- Aqui você pode colocar imagem ou gráfico do burndown -->
+    <img width="398" height="250" alt="image" src="https://github.com/user-attachments/assets/3a713f28-2102-43f2-bc1d-bcd7fe1bfa27" />
   </div>
 </details>
 
@@ -104,11 +102,11 @@ Gerenciar o ciclo dos Trabalhos de Graduação (TG) da modalidade Portfólio é 
 Toda a documentação do projeto está disponível na pasta [`documentacao`](./documentação).
 
 ### Conteúdo
-- Definition of Ready ([`DoR`](./documentação/DOR))
-- Definition of Done  ( [`DoD`](./documentação/DOD))
-- [` Estratégia de Branch`](./documentação/Estratégia-de-Branch)
-- [` Padrão de Commits`](./documentação/Padrão-de-Commits)
-- Outros documentos relevantes
+- Definition of Ready (DoR
+- Definition of Done  (DoD)
+- Estratégia de Branch
+- Padrão de Commits
+- Modelagem do Banco de Dados
   
 
 ## Equipe
