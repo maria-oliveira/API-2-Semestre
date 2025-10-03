@@ -39,15 +39,15 @@ Gerenciar o ciclo dos Trabalhos de Graduação (TG) da modalidade Portfólio é 
 
 ## Sprints
 
-|Calendário|
-|:-------------:|
-| Kick-off geral| 25/08 a 29/08 |
-|Sprint 1|08/09 a 29/09|
-|Sprint Review|29/09 a 03/10|
-|Sprint 2|06/10 a 26/10|
-|Sprint Review|27/10 a 31/10|
-|Sprint 3|03/11 a 23/11|
-|Sprint Review|24/11 a 28/11|
+| **Calendário**   | **Período**       |
+|------------------|-------------------|
+| Kick-off geral   | 25/08 a 29/08     |
+| Sprint 1         | 08/09 a 29/09     |
+| Sprint Review    | 29/09 a 03/10     |
+| Sprint 2         | 06/10 a 26/10     |
+| Sprint Review    | 27/10 a 31/10     |
+| Sprint 3         | 03/11 a 23/11     |
+| Sprint Review    | 24/11 a 28/11     |
 
 <!--Sprint 1-->
 <details>
