@@ -48,34 +48,6 @@ Gerenciar o ciclo dos Trabalhos de Graduação (TG) da modalidade Portfólio é 
 | Sprint 2         | 06/10 a 26/10     |Envio de Seções do TG, Correção e Feedback, Histórico de Versões, Notificações, Controle de Acompanhamento, Geração Automática do TG Final|
 | Sprint 3         | 03/11 a 23/11     |Gerenciamento de Cadastros de Professores, Estatísticas de Tempo Médio de Correção e Interações,Estatísticas de Tempo Médio de Correção e Interações|
 
-<!--Sprint 1-->
-<details>
-  <summary>Sprint 1</summary>
-  <div>
-    <h2>Descrição da Sprint</h2>
-    <table>
-      <thead>
-        <tr>
-          <th>Sprint</th>
-          <th>Período</th>
-          <th>Objetivo da Sprint</th>
-          <th>Descrição</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td>1</td>
-          <td>08/09 - 28/09</td>
-          <td>Entregar protótipo do sistema</td>
-          <td>Protótipo inicial da interface, com telas e botões interativos.</td>
-        </tr>
-      </tbody>
-    </table>
-
-    <h2>Burndown</h2>
-    <img width="398" height="250" alt="Burndown Sprint 1" src="https://github.com/user-attachments/assets/3a713f28-2102-43f2-bc1d-bcd7fe1bfa27" />
-  </div>
-</details>
 
 <!-- Sprint 2 -->
 <details>
