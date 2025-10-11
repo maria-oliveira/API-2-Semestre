@@ -1,4 +1,4 @@
-# ✅ Definition of Done – Sprint 1 (US01 a US07)
+# ✅ Definition of Done – Sprint 2 (US01 a US07)
 
 ## 1. Escopo da Sprint
 Esta sprint cobre as funcionalidades principais do sistema **TG Control**, incluindo:
@@ -50,7 +50,7 @@ Esta sprint cobre as funcionalidades principais do sistema **TG Control**, inclu
 
 ---
 
-# ✅ Definition of Done – Sprint 2 (US08 a US10)
+# ✅ Definition of Done – Sprint 3 (US08 a US10)
 
 ## 1. Escopo da Sprint
 Esta sprint cobre as funcionalidades complementares e administrativas do sistema:
