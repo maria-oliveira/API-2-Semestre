@@ -72,66 +72,102 @@ Gerenciar o ciclo dos Trabalhos de Graduação (TG) da modalidade Portfólio é 
         </tr>
       </tbody>
     </table>
-    <h2>Backlog</h2>
+    <h2>Backlog – User Stories</h2>
     <table>
       <thead>
         <tr>
-          <th>Rank</th>
-          <th>Prioridade</th>
+          <th>ID</th>
           <th>User Story</th>
-          <th>Estimativa</th>
-          <th>Sprint</th>
+          <th>Objetivo</th>
+          <th>Requisitos Específicos</th>
         </tr>
       </thead>
       <tbody>
         <tr>
-          <td>1</td>
-          <td>Alta</td>
+          <td>US01</td>
+          <td>Envio de Seções</td>
           <td>Como aluno, quero enviar minhas seções do TG diretamente para o orientador, para facilitar a entrega e centralizar os envios.</td>
-          <td>6</td>
-          <td>2</td>
+          <td>
+            - Permitir upload de arquivos .docx, .pdf e .md<br>
+            - Informar o nome da seção no envio<br>
+            - Salvar data e hora do envio<br>
+            - Validar tamanho máximo do arquivo<br>
+            - Tela com campos: Selecionar Seção, Selecionar Arquivo, Botão “Enviar”<br>
+            - Após envio, mostrar confirmação e listar arquivo
+          </td>
         </tr>
         <tr>
-          <td>2</td>
-          <td>Alta</td>
+          <td>US02</td>
+          <td>Correção e Feedback no Sistema</td>
           <td>Como professor orientador, quero corrigir e devolver feedback diretamente no sistema para agilizar a orientação.</td>
-          <td>6</td>
-          <td>2</td>
+          <td>
+            - Visualizar arquivos enviados pelo aluno<br>
+            - Campo de texto para comentários<br>
+            - Professor não edita o arquivo<br>
+            - Botão “Enviar Feedback” salva comentário e marca seção como “Com Feedback”<br>
+            - Feedback visível ao aluno na seção correspondente<br>
+            - Registrar data e autor do feedback
+          </td>
         </tr>
         <tr>
-          <td>3</td>
-          <td>Alta</td>
+          <td>US03</td>
+          <td>Acesso a Versões Anteriores</td>
           <td>Como professor de TG/Orientador, quero acessar versões anteriores das seções enviadas para acompanhar a evolução do trabalho do aluno.</td>
-          <td>5</td>
-          <td>2</td>
+          <td>
+            - Cada upload gera nova versão<br>
+            - Armazenar número da versão (v1, v2...) e data<br>
+            - Professor pode visualizar e baixar versões anteriores<br>
+            - Interface com aba/botão “Histórico de Versões”
+          </td>
         </tr>
         <tr>
-          <td>4</td>
-          <td>Alta</td>
-          <td>Como aluno, quero ser notificado quando o professor enviar feedback.<br>Como professor, quero ser notificado quando o aluno enviar nova versão.</td>
-          <td>6</td>
-          <td>2</td>
+          <td>US04</td>
+          <td>Notificações</td>
+          <td>Aluno: ser notificado quando houver feedback.<br>Professor: ser notificado quando houver nova versão.</td>
+          <td>
+            - Notificações no sistema e opcional por e-mail<br>
+            - Texto padrão aluno: “Sua seção X foi revisada pelo orientador.”<br>
+            - Texto padrão professor: “O aluno X enviou uma nova versão da seção Y.”<br>
+            - Geradas automaticamente ao enviar feedback ou nova seção<br>
+            - Armazenamento e painel de notificações
+          </td>
         </tr>
         <tr>
-          <td>5</td>
-          <td>Alta</td>
-          <td>Como aluno, quero ver o status de cada seção.<br>Como professor, quero atualizar o status das seções corrigidas.</td>
-          <td>3</td>
-          <td>2</td>
+          <td>US05</td>
+          <td>Status e Progresso</td>
+          <td>Aluno: ver status das seções.<br>Professor: atualizar status das seções corrigidas.</td>
+          <td>
+            - Status: Pendente, Em Revisão, Com Feedback, Aceito<br>
+            - Mostrar status com cores e ícones<br>
+            - Apenas professor altera o status<br>
+            - Exibir confirmação ao alterar status<br>
+            - Atualização visível em tempo real para o aluno
+          </td>
         </tr>
         <tr>
-          <td>6</td>
-          <td>Média</td>
-          <td>Como aluno, quero que seções, versões e feedbacks fiquem salvos no sistema para acompanhar minha evolução.<br>Como professor, quero acessar facilmente o histórico de envios e versões.</td>
-          <td>12</td>
-          <td>2</td>
+          <td>US06</td>
+          <td>Implementação Inicial do Banco de Dados</td>
+          <td>Como aluno, quero que seções, versões e correções fiquem salvas de forma segura no sistema.</td>
+          <td>
+            - Tabelas: Alunos, Seções, Versões, Feedbacks, Notificações<br>
+            - Versão vinculada a aluno, seção e data<br>
+            - Feedback vinculado à versão específica<br>
+            - Tela de histórico completo<br>
+            - Filtros: aluno, status, data de envio<br>
+            - Nenhuma versão é apagada automaticamente
+          </td>
         </tr>
         <tr>
-          <td>7</td>
-          <td>Média</td>
-          <td>Como aluno, quero gerar automaticamente meu TG consolidado em formato Markdown (.md) seguindo o padrão exigido.</td>
-          <td>4</td>
-          <td>2</td>
+          <td>US07</td>
+          <td>Geração Automática do TG Consolidado (Formato MD)</td>
+          <td>Como aluno, quero gerar automaticamente meu TG consolidado em formato Markdown (.md), seguindo o padrão exigido.</td>
+          <td>
+            - Juntar todas as seções aceitas na ordem correta<br>
+            - Converter seções para Markdown (#, ##, etc.)<br>
+            - Gerar único arquivo .md consolidado<br>
+            - Botão “Gerar TG Consolidado (.md)” na tela principal<br>
+            - Mensagem de sucesso e download direto
+          </td>
         </tr>
       </tbody>
     </table>
@@ -140,6 +176,7 @@ Gerenciar o ciclo dos Trabalhos de Graduação (TG) da modalidade Portfólio é 
 
   </div>
 </details>
+
 
 
 <!--Sprint 3-->
