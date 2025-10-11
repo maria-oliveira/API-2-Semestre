@@ -47,11 +47,6 @@ Esta sprint cobre as funcionalidades principais do sistema **TG Control**, inclu
 - Cada US está marcada como “Done” no backlog com evidências (print, teste ou commit).  
 - O sistema está pronto para **apresentação e feedback do cliente** (protótipo funcional).  
 
----
-
-📅 **Período da Sprint 1:** US01 a US07  
-👩‍💻 **Responsável:** Equipe TG Control  
-🧾 **Status:** Concluída / Pronta para Demonstração  
 
 ---
 
@@ -99,8 +94,3 @@ Esta sprint cobre as funcionalidades complementares e administrativas do sistema
 - Logs de auditoria e métricas básicas foram configurados.  
 - O incremento foi **validado com o Product Owner** e aprovado para produção.  
 
----
-
-📅 **Período da Sprint 2:** US08 a US10  
-👩‍💻 **Responsável:** Equipe TG Control  
-🧾 **Status:** Concluída / Pronta para Encerramento de Projeto  
