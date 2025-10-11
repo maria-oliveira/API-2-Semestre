@@ -46,11 +46,12 @@ Gerenciar o ciclo dos Trabalhos de Graduação (TG) da modalidade Portfólio é 
 
 ## Cronograma das Sprints
 
-| **Sprint** | **Período** | **Entrega** | **Documentação**
-| --- | --- | --- |
-| Sprint 1 | 08/09 a 29/09 | Protótipos |  [`documentacao`](./Sprint2.md/).
-| Sprint 2 | 06/10 a 26/10 | Envio de Seções do TG, Correção e Feedback, Histórico de Versões, Notificações, Controle de Acompanhamento, Geração Automática do TG Final |
-| Sprint 3 | 03/11 a 23/11 | Gerenciamento de Cadastros de Professores, Estatísticas de Tempo Médio de Correção e Interações,Estatísticas de Tempo Médio de Correção e Interações |
+| **Sprint** | **Período** | **Entrega** | **Documentação** |
+| --- | --- | --- | --- |
+| Sprint 1 | 08/09 a 29/09 | Protótipos | [`documentacao`](./documentacao/Sprint1.md) |
+| Sprint 2 | 06/10 a 26/10 | Envio de Seções do TG, Correção e Feedback, Histórico de Versões, Notificações, Controle de Acompanhamento, Geração Automática do TG Final | [`documentacao`](./documentacao/Sprint2.md) |
+| Sprint 3 | 03/11 a 23/11 | Gerenciamento de Cadastros de Professores, Estatísticas de Tempo Médio de Correção e Interações | [`documentacao`](./documentacao/Sprint3.md) |
+
 
 ---
 
