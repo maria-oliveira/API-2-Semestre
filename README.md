@@ -68,7 +68,7 @@ Gerenciar o ciclo dos Trabalhos de Graduação (TG) da modalidade Portfólio é 
           <td>2</td>
           <td>06/10 - 26/10</td>
           <td>Implementar funcionalidades principais do TG Control</td>
-          <td>Desenvolvimento das primeiras funções do sistema, como envio, correção e notificações.</td>
+          <td>Desenvolvimento das primeiras funções do sistema, como envio, correção, versões, notificações, status e banco de dados.</td>
         </tr>
       </tbody>
     </table>
@@ -85,54 +85,62 @@ Gerenciar o ciclo dos Trabalhos de Graduação (TG) da modalidade Portfólio é 
       </thead>
       <tbody>
         <tr>
+          <td>1</td>
+          <td>Alta</td>
+          <td>Como aluno, quero enviar minhas seções do TG diretamente para o orientador, para facilitar a entrega e centralizar os envios.</td>
+          <td>6</td>
+          <td>2</td>
+        </tr>
+        <tr>
           <td>2</td>
           <td>Alta</td>
-          <td>Como aluno, quero enviar minhas seções do TG diretamente para o orientador, para facilitar a entrega e não depender de muitos canais diferentes.</td>
+          <td>Como professor orientador, quero corrigir e devolver feedback diretamente no sistema para agilizar a orientação.</td>
           <td>6</td>
           <td>2</td>
         </tr>
         <tr>
           <td>3</td>
           <td>Alta</td>
-          <td>Como professor orientador, quero corrigir e devolver feedback diretamente no sistema para agilizar o processo de orientação.</td>
-          <td>6</td>
+          <td>Como professor de TG/Orientador, quero acessar versões anteriores das seções enviadas para acompanhar a evolução do trabalho do aluno.</td>
+          <td>5</td>
           <td>2</td>
         </tr>
         <tr>
           <td>4</td>
           <td>Alta</td>
-          <td>Como professor de TG/Orientador, quero acessar as versões anteriores das seções enviadas para acompanhar a evolução do trabalho do aluno.</td>
-          <td>5</td>
+          <td>Como aluno, quero ser notificado quando o professor enviar feedback.<br>Como professor, quero ser notificado quando o aluno enviar nova versão.</td>
+          <td>6</td>
           <td>2</td>
         </tr>
         <tr>
           <td>5</td>
           <td>Alta</td>
-          <td>Como aluno, quero receber notificações quando meu professor responder para não perder prazos importantes.<br>Como professor, quero ser notificado quando um aluno enviar uma nova versão para não deixar passar revisões pendentes.</td>
-          <td>6</td>
-          <td>2</td>
-        </tr>
-        <tr>
-          <td>6</td>
-          <td>Alta</td>
-          <td>Como aluno, quero ver o status de cada seção (pendente, revisada, aceita) para saber meu progresso no TG.<br>Como professor, quero atualizar o status das seções corrigidas para indicar a evolução ao aluno.</td>
+          <td>Como aluno, quero ver o status de cada seção.<br>Como professor, quero atualizar o status das seções corrigidas.</td>
           <td>3</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>6</td>
+          <td>Média</td>
+          <td>Como aluno, quero que seções, versões e feedbacks fiquem salvos no sistema para acompanhar minha evolução.<br>Como professor, quero acessar facilmente o histórico de envios e versões.</td>
+          <td>12</td>
           <td>2</td>
         </tr>
         <tr>
           <td>7</td>
           <td>Média</td>
-          <td>Como aluno, quero que minhas seções, versões e correções fiquem salvas, para não perder meu histórico e acompanhar minha evolução no trabalho.<br>Como professor, quero acessar facilmente os envios e versões dos alunos, para acompanhar o progresso de cada TG e manter registrado todo o processo de orientação.</td>
-          <td>12</td>
+          <td>Como aluno, quero gerar automaticamente meu TG consolidado em formato Markdown (.md) seguindo o padrão exigido.</td>
+          <td>4</td>
           <td>2</td>
         </tr>
       </tbody>
     </table>
-
     <h2>Burndown</h2>
     <img width="398" height="250" alt="Burndown Sprint 2" src="URL-DA-IMAGEM" />
+
   </div>
 </details>
+
 
 <!--Sprint 3-->
 <details>
