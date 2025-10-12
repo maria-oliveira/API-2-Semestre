@@ -15,17 +15,7 @@ Gerenciar o ciclo dos Trabalhos de Graduação (TG) da modalidade Portfólio é 
 
 ## Tecnologias Utilizadas
 
-[![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)](https://www.java.com/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/)
-
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](https://www.figma.com/)
-
-[![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
-
-[![Scene Builder](https://img.shields.io/badge/Scene%20Builder-0091EA?logo=java&logoColor=white)](https://gluonhq.com/products/scene-builder/)
-
-[![JavaFX](https://img.shields.io/badge/JavaFX-FF0000?logo=openjdk&logoColor=white)](https://openjfx.io/)
+[![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)](https://www.java.com/)  [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/) [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](https://www.figma.com/) [![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)](https://www.atlassian.com/software/jira) [![Scene Builder](https://img.shields.io/badge/Scene%20Builder-0091EA?logo=java&logoColor=white)](https://gluonhq.com/products/scene-builder/) [![JavaFX](https://img.shields.io/badge/JavaFX-FF0000?logo=openjdk&logoColor=white)](https://openjfx.io/)
 ## Backlog do produto
 
 | Rank | Prioridade | User Story | Estimativa | Sprint |
@@ -54,7 +44,9 @@ Gerenciar o ciclo dos Trabalhos de Graduação (TG) da modalidade Portfólio é 
 
 ---
 
+## 📖 Manual de Instalação
 
+---
 
 ## 📄 Documentação do Projeto
 
