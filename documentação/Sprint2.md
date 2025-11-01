@@ -79,7 +79,10 @@ Como professor de TG/Orientador, quero acessar versões anteriores das seções 
 - Texto padrão para aluno: “Sua seção X foi revisada pelo orientador.”  
 - Texto padrão para professor: “O aluno X enviou uma nova versão da seção Y.”  
 - A notificação é gerada automaticamente quando o professor clica em **“Enviar Feedback”** ou o aluno clica em **“Enviar Seção”**.  
-- As notificações devem ser **armazenadas e exibidas** em um painel de notificações.  
+- As notificações devem ser **armazenadas e exibidas** em um painel de notificações.
+
+  <img width="758" height="528" alt="image" src="https://github.com/user-attachments/assets/41fa6523-a082-4ada-b192-741044501839" />
+
 
 ---
 
