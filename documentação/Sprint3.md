@@ -9,7 +9,7 @@
 # 📝 Definition of Ready (DoR)
 
 ---
-# Metas para Sprint
+# 📈 Metas para Sprint
 
 ---
 # ✅ Definition of Done (DoD)
