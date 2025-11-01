@@ -75,11 +75,11 @@ Como professor de TG/Orientador, quero acessar versões anteriores das seções 
 **Professor:** Quero ser notificado quando o aluno enviar nova versão.
 
 **Requisitos Específicos:**  
-- Notificações devem aparecer **no sistema** e também podem ser enviadas **por e-mail**.  
+- Notificações devem aparecer no sistema e também podem ser enviadas por e-mail.  
 - Texto padrão para aluno: “Sua seção X foi revisada pelo orientador.”  
 - Texto padrão para professor: “O aluno X enviou uma nova versão da seção Y.”  
 - A notificação é gerada automaticamente quando o professor clica em **“Enviar Feedback”** ou o aluno clica em **“Enviar Seção”**.  
-- As notificações devem ser **armazenadas e exibidas** em um painel de notificações.
+- As notificações devem ser armazenadas e exibidas em um painel de notificações.
 
   <img width="758" height="528" alt="image" src="https://github.com/user-attachments/assets/41fa6523-a082-4ada-b192-741044501839" />
 
@@ -93,11 +93,13 @@ Como professor de TG/Orientador, quero acessar versões anteriores das seções 
 **Professor:** Quero atualizar o status das seções corrigidas.
 
 **Requisitos Específicos:**  
-- Status possíveis: **Pendente**, **Em Revisão**, **Com Feedback**, **Aceito**.  
-- O sistema deve mostrar o **status ao lado do nome da seção**, com cores e ícones.  
-- Apenas o **professor pode alterar o status**.  
-- Ao alterar o status, deve ser exibida uma **confirmação** (“Deseja atualizar o status para Aceito?”).  
-- O aluno visualiza o **status atualizado em tempo real**.  
+- Status possíveis: Pendente, Em Revisão, Com Feedback, Aceito.  
+- O sistema deve mostrar o status ao lado do nome da seção, com cores e ícones.  
+- Apenas o professor pode alterar o status.  
+- Ao alterar o status, deve ser exibida uma confirmação (“Deseja atualizar o status para Aceito?”).
+  
+<img width="837" height="556" alt="image" src="https://github.com/user-attachments/assets/da0d3651-6524-41c1-9c82-c2458445a252" />
+
 
 ---
 
@@ -122,11 +124,14 @@ Como aluno, quero que seções, versões e correções fiquem salvas de forma se
 Como aluno, quero gerar automaticamente meu TG consolidado em formato **Markdown (.md)**, seguindo o padrão exigido.
 
 **Requisitos Específicos:**  
-- O sistema deve juntar todas as **seções aceitas** na **ordem correta**.  
-- Cada seção deve ser **convertida para formato Markdown padrão**, com títulos (#, ##, etc.).  
-- Deve ser gerado um **único arquivo .md** consolidado com todas as seções.  
-- O aluno acessa um **botão “Gerar TG Consolidado (.md)”** na tela principal.  
-- Após gerar, o sistema exibe a **mensagem “Arquivo gerado com sucesso”** e permite o **download direto**.  
+- O sistema deve juntar todas as seções aceitas na **ordem correta.  
+- Cada seção deve ser convertida para formato Markdown padrão, com títulos (#, ##, etc.).  
+- Deve ser gerado um único arquivo .md consolidado com todas as seções.  
+- O aluno acessa um botão “Gerar TG Consolidado (.md)” na tela principal.  
+- Após gerar, o sistema exibe a mensagem “Arquivo gerado com sucesso” e permite o download direto.
+  
+ <img width="754" height="501" alt="image" src="https://github.com/user-attachments/assets/3c625bdf-4629-40f2-829b-a9306db7dd8f" />
+
 
 ---
 # ✅ Definition of Done (DoD)
