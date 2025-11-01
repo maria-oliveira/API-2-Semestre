@@ -68,13 +68,13 @@ Como professor de TG/Orientador, quero acessar versões anteriores das seções 
 
 ---
 
-US04 – Notificações
-Objetivo:
+### **US04 – Notificações**
+
+**Objetivo:**
 Aluno: Quero ser notificado quando o professor enviar feedback.
 Professor: Quero ser notificado quando o aluno enviar nova versão.
 
-Requisitos Específicos:
-
+**Requisitos Específicos:**
 -Notificações devem aparecer no sistema e também podem ser enviadas por e-mail.
 -Texto padrão para aluno: “Sua seção X foi revisada pelo orientador.”
 -Texto padrão para professor: “O aluno X enviou uma nova versão da seção Y.”
