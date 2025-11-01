@@ -32,7 +32,24 @@ Como aluno, quero enviar minhas seções do TG diretamente para o orientador, pa
   <img width="736" height="496" alt="image" src="https://github.com/user-attachments/assets/99f6f213-f556-4278-bfd2-403ace2a5efc" />
 
 
-| US02 | Correção e Feedback no Sistema | Como professor orientador, quero corrigir e devolver feedback diretamente no sistema para agilizar a orientação. | - Visualizar arquivos enviados pelo aluno<br>- Campo de texto para comentários<br>- Professor não edita o arquivo<br>- Botão “Enviar Feedback” salva comentário e marca seção como “Com Feedback”<br>- Feedback visível ao aluno na seção correspondente<br>- Registrar data e autor do feedback |
+---
+
+### **US02 – Correção e Feedback no Sistema**
+
+**Objetivo:**  
+Como professor orientador, quero corrigir e devolver feedback diretamente no sistema para agilizar o processo de orientação.
+
+**Requisitos Específicos:**  
+- O professor deve poder visualizar o arquivo enviado pelo aluno.  
+- Deve haver um campo de texto para comentários ou observações.  
+- O professor não pode editar o arquivo, apenas inserir comentários.  
+- O botão “Enviar Feedback” deve salvar o comentário e marcar a seção como “Com Feedback”.  
+- O feedback deve ficar visível ao aluno dentro da seção correspondente.  
+- O sistema deve registrar a data e o autor do feedback.
+  
+<img width="849" height="585" alt="image" src="https://github.com/user-attachments/assets/622fa4f9-8d07-4d6b-a430-c58757165fbb" />
+
+
 | US03 | Acesso a Versões Anteriores | Como professor de TG/Orientador, quero acessar versões anteriores das seções enviadas para acompanhar a evolução do trabalho do aluno. | - Cada upload gera nova versão<br>- Armazenar número da versão (v1, v2...) e data<br>- Professor pode visualizar e baixar versões anteriores<br>- Interface com aba/botão “Histórico de Versões” |
 | US04 | Notificações | Aluno: ser notificado quando houver feedback.<br>Professor: ser notificado quando houver nova versão. | - Notificações no sistema e opcional por e-mail<br>- Texto padrão aluno: “Sua seção X foi revisada pelo orientador.”<br>- Texto padrão professor: “O aluno X enviou uma nova versão da seção Y.”<br>- Geradas automaticamente ao enviar feedback ou nova seção<br>- Armazenamento e painel de notificações |
 | US05 | Status e Progresso | Aluno: ver status das seções.<br>Professor: atualizar status das seções corrigidas. | - Status: Pendente, Em Revisão, Com Feedback, Aceito<br>- Mostrar status com cores e ícones<br>- Apenas professor altera o status<br>- Exibir confirmação ao alterar status<br>- Atualização visível em tempo real para o aluno |
