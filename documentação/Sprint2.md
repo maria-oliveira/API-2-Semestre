@@ -66,11 +66,66 @@ Como professor de TG/Orientador, quero acessar versões anteriores das seções 
   <img width="792" height="528" alt="image" src="https://github.com/user-attachments/assets/e1e64dba-0ba5-4439-978f-b0f6d30fc6da" />
   <img width="812" height="548" alt="image" src="https://github.com/user-attachments/assets/76d9bd84-0840-4e70-b4d9-dab053f81d10" />
 
+---
 
-| US04 | Notificações | Aluno: ser notificado quando houver feedback.<br>Professor: ser notificado quando houver nova versão. | - Notificações no sistema e opcional por e-mail<br>- Texto padrão aluno: “Sua seção X foi revisada pelo orientador.”<br>- Texto padrão professor: “O aluno X enviou uma nova versão da seção Y.”<br>- Geradas automaticamente ao enviar feedback ou nova seção<br>- Armazenamento e painel de notificações |
-| US05 | Status e Progresso | Aluno: ver status das seções.<br>Professor: atualizar status das seções corrigidas. | - Status: Pendente, Em Revisão, Com Feedback, Aceito<br>- Mostrar status com cores e ícones<br>- Apenas professor altera o status<br>- Exibir confirmação ao alterar status<br>- Atualização visível em tempo real para o aluno |
-| US06 | Implementação Inicial do Banco de Dados | Como aluno, quero que seções, versões e correções fiquem salvas de forma segura no sistema. | - Tabelas: Alunos, Seções, Versões, Feedbacks, Notificações<br>- Versão vinculada a aluno, seção e data<br>- Feedback vinculado à versão específica<br>- Tela de histórico completo<br>- Filtros: aluno, status, data de envio<br>- Nenhuma versão é apagada automaticamente |
-| US07 | Geração Automática do TG Consolidado (Formato MD) | Como aluno, quero gerar automaticamente meu TG consolidado em formato Markdown (.md), seguindo o padrão exigido. | - Juntar todas as seções aceitas na ordem correta<br>- Converter seções para Markdown (#, ##, etc.)<br>- Gerar único arquivo .md consolidado<br>- Botão “Gerar TG Consolidado (.md)” na tela principal<br>- Mensagem de sucesso e download direto |
+US04 – Notificações
+Objetivo:
+Aluno: Quero ser notificado quando o professor enviar feedback.
+Professor: Quero ser notificado quando o aluno enviar nova versão.
+
+Requisitos Específicos:
+
+-Notificações devem aparecer no sistema e também podem ser enviadas por e-mail.
+-Texto padrão para aluno: “Sua seção X foi revisada pelo orientador.”
+-Texto padrão para professor: “O aluno X enviou uma nova versão da seção Y.”
+-A notificação é gerada automaticamente quando o professor clica em “Enviar Feedback” ou o aluno clica em “Enviar Seção”.
+-As notificações devem ser armazenadas e exibidas em um painel de notificações.
+
+---
+
+### **US05 – Status e Progresso**
+
+**Objetivo:**  
+**Aluno:** Quero ver o status de cada seção.  
+**Professor:** Quero atualizar o status das seções corrigidas.
+
+**Requisitos Específicos:**  
+- Status possíveis: **Pendente**, **Em Revisão**, **Com Feedback**, **Aceito**.  
+- O sistema deve mostrar o **status ao lado do nome da seção**, com cores e ícones.  
+- Apenas o **professor pode alterar o status**.  
+- Ao alterar o status, deve ser exibida uma **confirmação** (“Deseja atualizar o status para Aceito?”).  
+- O aluno visualiza o **status atualizado em tempo real**.
+  
+---
+
+### **US06 – Implementação Inicial do Banco de Dados**
+
+**Objetivo:**  
+Como aluno, quero que seções, versões e correções fiquem salvas de forma segura no sistema.
+
+**Requisitos Específicos:**  
+- Criar tabelas para **Alunos**, **Seções**, **Versões**, **Feedbacks** e **Notificações**.  
+- Cada versão deve ter referência ao **aluno**, **seção** e **data de envio**.  
+- Cada feedback deve estar vinculado à **versão específica do arquivo**.  
+- O histórico completo deve poder ser **consultado em uma tela**.  
+- Permitir **filtros** por nome do aluno, status e data de envio.  
+- Definir que **nenhuma versão será apagada automaticamente**.
+  
+---
+
+### **US07 – Geração Automática do TG Consolidado (Formato MD)**
+
+**Objetivo:**  
+Como aluno, quero gerar automaticamente meu TG consolidado em formato **Markdown (.md)**, seguindo o padrão exigido.
+
+**Requisitos Específicos:**  
+- O sistema deve juntar todas as **seções aceitas** na **ordem correta**.  
+- Cada seção deve ser **convertida para formato Markdown padrão**, com títulos (#, ##, etc.).  
+- Deve ser gerado um **único arquivo .md** consolidado com todas as seções.  
+- O aluno acessa um **botão “Gerar TG Consolidado (.md)”** na tela principal.  
+- Após gerar, o sistema exibe a **mensagem “Arquivo gerado com sucesso”** e permite o **download direto**.  
+
+---
 
 # ✅ Definition of Done (DoD)
 
