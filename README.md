@@ -27,9 +27,9 @@ Gerenciar o ciclo dos Trabalhos de Graduação (TG) da modalidade Portfólio é 
 | 5 | **Alta** | Como aluno, quero ver o status de cada seção (pendente, revisada, aceita) para saber meu progresso no TG.<br>Como professor, quero atualizar o status das seções corrigidas para indicar a evolução ao aluno. | 3 | 2 |
 | 6 | **Média** | Como aluno, quero que minhas seções, versões e correções fiquem salvas, para não perder meu histórico e acompanhar minha evolução no trabalho.<br>Como professor, quero acessar facilmente os envios e versões dos alunos, para acompanhar o progresso de cada TG e manter registrado todo o processo de orientação. | 12 | 2 |
 | 7 | **Média** | Como aluno, quero gerar automaticamente meu TG consolidado em formato MD para entregar de acordo com o padrão exigido. | 8 | 2 |
-| 8| **Baixa** | Como professor de TG, quero ter estatísticas sobre tempo médio de correção e interações para melhorar a gestão acadêmica. | 5 | 3 |
-| 9| **Baixa** | Como professor de TG, quero visualizar quais alunos já concluíram todas as seções. | 3 | 3 |
-| 10 | **Baixa** | Como administrador, quero gerenciar cadastros de professores para garantir acesso controlado ao sistema. | 4 | 3 |
+| 8| **Baixa** | Como professor de TG, quero agendar as defesas dos alunos que concluíram o Trabalho de Graduação, para organizar as apresentações e facilitar o acompanhamento das etapas finais do processo. | 5 | 3 |
+| 9| **Baixa** |Como professor de TG,quero revisar e aprovar os cadastros realizados por alunos e outros professores no sistema,para garantir que apenas usuários autorizados tenham acesso e evitar cadastros indevidos. | 3 | 3 |
+
 
 ---
 
@@ -66,7 +66,6 @@ Toda a documentação do projeto está disponível na pasta [`documentação`](.
 | Scrum Master   | Leonardo Amon Sumiyoshi Hashimoto       | [Leonardo1022](https://github.com/Leonardo1022) |
 | Product Owner  | Maria Eduarda Teixeira Miller de Oliveira | [maria-oliveira](https://github.com/maria-oliveira) |
 | Team Member    | Gabriel Valente Belarmino               | [gabrielvalentesjc](https://github.com/gabrielvalentesjc) |
-| Team Member    | Guilherme Almeida de Arruda             | [guiggaaz](https://github.com/guiggaaz) |
 | Team Member    | Natália Pereira da Silva                | [nataliapersis](https://github.com/nataliapersis) |
 | Team Member    | Niuan Spolidorio da Rocha Souza         | [NiuanSouza](https://github.com/NiuanSouza) |
 | Team Member    | Vitor Samuel Ribeiro de Souza           | [VitorRibeiro09](https://github.com/VitorRibeiro09) |
