@@ -50,7 +50,23 @@ Como professor orientador, quero corrigir e devolver feedback diretamente no sis
 <img width="849" height="585" alt="image" src="https://github.com/user-attachments/assets/622fa4f9-8d07-4d6b-a430-c58757165fbb" />
 
 
-| US03 | Acesso a Versões Anteriores | Como professor de TG/Orientador, quero acessar versões anteriores das seções enviadas para acompanhar a evolução do trabalho do aluno. | - Cada upload gera nova versão<br>- Armazenar número da versão (v1, v2...) e data<br>- Professor pode visualizar e baixar versões anteriores<br>- Interface com aba/botão “Histórico de Versões” |
+---
+
+### **US03 – Acesso a Versões Anteriores**
+
+**Objetivo:**  
+Como professor de TG/Orientador, quero acessar versões anteriores das seções enviadas para acompanhar a evolução do trabalho do aluno.
+
+**Requisitos Específicos:**  
+- Cada novo upload deve gerar automaticamente uma nova versão da seção.  
+- O sistema deve armazenar o número da versão (v1, v2, v3...) e a data do envio.  
+- O professor deve poder visualizar e baixar qualquer versão anterior.  
+- Criar na interface uma aba ou botão “Histórico de Versões” para acesso rápido.
+
+  <img width="792" height="528" alt="image" src="https://github.com/user-attachments/assets/e1e64dba-0ba5-4439-978f-b0f6d30fc6da" />
+  <img width="812" height="548" alt="image" src="https://github.com/user-attachments/assets/76d9bd84-0840-4e70-b4d9-dab053f81d10" />
+
+
 | US04 | Notificações | Aluno: ser notificado quando houver feedback.<br>Professor: ser notificado quando houver nova versão. | - Notificações no sistema e opcional por e-mail<br>- Texto padrão aluno: “Sua seção X foi revisada pelo orientador.”<br>- Texto padrão professor: “O aluno X enviou uma nova versão da seção Y.”<br>- Geradas automaticamente ao enviar feedback ou nova seção<br>- Armazenamento e painel de notificações |
 | US05 | Status e Progresso | Aluno: ver status das seções.<br>Professor: atualizar status das seções corrigidas. | - Status: Pendente, Em Revisão, Com Feedback, Aceito<br>- Mostrar status com cores e ícones<br>- Apenas professor altera o status<br>- Exibir confirmação ao alterar status<br>- Atualização visível em tempo real para o aluno |
 | US06 | Implementação Inicial do Banco de Dados | Como aluno, quero que seções, versões e correções fiquem salvas de forma segura no sistema. | - Tabelas: Alunos, Seções, Versões, Feedbacks, Notificações<br>- Versão vinculada a aluno, seção e data<br>- Feedback vinculado à versão específica<br>- Tela de histórico completo<br>- Filtros: aluno, status, data de envio<br>- Nenhuma versão é apagada automaticamente |
