@@ -26,11 +26,45 @@
 
 # ✅ Definition of Done (DoD)
 
-| Categoria | Critérios de Conclusão | Status |
-| --- | --- | --- |
-| Código e Desenvolvimento | - Implementação de todas as funcionalidades seguindo boas práticas e padrões da equipe<br>- Regras de negócio das US01–US07 respeitadas<br>- Telas principais (envio, feedback, histórico, status e geração de TG) navegáveis e integradas<br>- Banco de dados funcional, armazenando corretamente alunos, seções, versões, feedbacks e notificações<br>- Código revisado e aprovado em code review<br>- Integração das features concluída sem regressões | ⬜ |
-|Testes e Qualidade | - Testes manuais executados para todos os fluxos principais (envio, feedback, geração, notificações)<br>- Testes unitários básicos criados para funções de controle e persistência de dados<br>- Todos os critérios de aceitação das US01–US07 validados com sucesso<br>- Nenhum erro crítico ou de bloqueio permanece aberto<br>- Performance e estabilidade adequadas para uso interno e demonstração | ⬜ |
-|  Usabilidade e Interface | - Telas com layout consistente, intuitivo e funcional<br>- Botões, mensagens de erro e feedback ao usuário implementados corretamente<br>- Interface reflete protótipo definido na documentação<br>- Ícones e cores de status aplicados conforme padrão visual (ex.: Pendente, Em Revisão, Aceito) | ⬜ |
-|  Documentação e Entregáveis | - README e documentação técnica atualizados com as US concluídas<br>- Estrutura do banco de dados registrada<br>- Cada US marcada como “Done” no backlog com evidências (print, teste ou commit)<br>- Sistema pronto para apresentação e feedback do cliente (protótipo funcional) | ⬜ |
+## 1. Escopo da Sprint
+Esta sprint cobre as funcionalidades principais do sistema **TG Control**, incluindo:
+- Envio de seções do TG pelo aluno.
+- Correção e feedback pelo professor.
+- Controle de versões anteriores.
+- Sistema de notificações.
+- Exibição de status e progresso.
+- Estrutura inicial do banco de dados.
+- Geração automática do TG consolidado em formato Markdown.
+
+---
+
+## 2. Critérios de Conclusão da Sprint
+
+### 2.1 💻 Código e Desenvolvimento
+- O código de todas as funcionalidades foi implementado **seguindo boas práticas** e **padrões da equipe**.  
+- Todas as **regras de negócio descritas no DoR** das US01–US07 foram respeitadas.  
+- As telas principais (envio, feedback, histórico, status e geração de TG) estão **navegáveis e integradas**.  
+- O **banco de dados foi criado e está funcional**, armazenando corretamente alunos, seções, versões, feedbacks e notificações.  
+- O código foi **revisado e aprovado** em *code review*.  
+- Integração das features concluída sem causar **regressões** nas partes já implementadas.
+
+---
+
+### 2.2 🧪 Testes e Qualidade
+- Testes manuais foram executados para **todos os fluxos principais** (envio, feedback, geração, notificações).  
+- Testes unitários básicos foram criados para as funções de controle e persistência de dados.  
+- Todos os **critérios de aceitação das US01–US07** foram validados com sucesso.  
+- Nenhum **erro crítico ou de bloqueio** permanece aberto.  
+- A performance e estabilidade estão adequadas para uso interno e demonstração.  
+
+---
+
+### 2.3 🎨 Usabilidade e Interface
+- As telas possuem layout consistente, intuitivo e funcional.  
+- Botões, mensagens de erro e feedback ao usuário estão implementados corretamente.  
+- A interface reflete o **protótipo definido** na documentação.  
+- Ícones e cores de status estão aplicados conforme padrão visual (ex.: Pendente, Em Revisão, Aceito).  
+
+---
 
 # 📊 Burndown da Sprint
