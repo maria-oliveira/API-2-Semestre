@@ -70,16 +70,16 @@ Como professor de TG/Orientador, quero acessar versões anteriores das seções 
 
 ### **US04 – Notificações**
 
-**Objetivo:**
-Aluno: Quero ser notificado quando o professor enviar feedback.
-Professor: Quero ser notificado quando o aluno enviar nova versão.
+**Objetivo:**  
+**Aluno:** Quero ser notificado quando o professor enviar feedback.  
+**Professor:** Quero ser notificado quando o aluno enviar nova versão.
 
-**Requisitos Específicos:**
--Notificações devem aparecer no sistema e também podem ser enviadas por e-mail.
--Texto padrão para aluno: “Sua seção X foi revisada pelo orientador.”
--Texto padrão para professor: “O aluno X enviou uma nova versão da seção Y.”
--A notificação é gerada automaticamente quando o professor clica em “Enviar Feedback” ou o aluno clica em “Enviar Seção”.
--As notificações devem ser armazenadas e exibidas em um painel de notificações.
+**Requisitos Específicos:**  
+- Notificações devem aparecer **no sistema** e também podem ser enviadas **por e-mail**.  
+- Texto padrão para aluno: “Sua seção X foi revisada pelo orientador.”  
+- Texto padrão para professor: “O aluno X enviou uma nova versão da seção Y.”  
+- A notificação é gerada automaticamente quando o professor clica em **“Enviar Feedback”** ou o aluno clica em **“Enviar Seção”**.  
+- As notificações devem ser **armazenadas e exibidas** em um painel de notificações.  
 
 ---
 
@@ -94,8 +94,8 @@ Professor: Quero ser notificado quando o aluno enviar nova versão.
 - O sistema deve mostrar o **status ao lado do nome da seção**, com cores e ícones.  
 - Apenas o **professor pode alterar o status**.  
 - Ao alterar o status, deve ser exibida uma **confirmação** (“Deseja atualizar o status para Aceito?”).  
-- O aluno visualiza o **status atualizado em tempo real**.
-  
+- O aluno visualiza o **status atualizado em tempo real**.  
+
 ---
 
 ### **US06 – Implementação Inicial do Banco de Dados**
@@ -109,8 +109,8 @@ Como aluno, quero que seções, versões e correções fiquem salvas de forma se
 - Cada feedback deve estar vinculado à **versão específica do arquivo**.  
 - O histórico completo deve poder ser **consultado em uma tela**.  
 - Permitir **filtros** por nome do aluno, status e data de envio.  
-- Definir que **nenhuma versão será apagada automaticamente**.
-  
+- Definir que **nenhuma versão será apagada automaticamente**.  
+
 ---
 
 ### **US07 – Geração Automática do TG Consolidado (Formato MD)**
@@ -126,7 +126,6 @@ Como aluno, quero gerar automaticamente meu TG consolidado em formato **Markdown
 - Após gerar, o sistema exibe a **mensagem “Arquivo gerado com sucesso”** e permite o **download direto**.  
 
 ---
-
 # ✅ Definition of Done (DoD)
 
 ## 1. Escopo da Sprint
