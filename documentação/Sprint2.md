@@ -132,6 +132,8 @@ Como aluno, quero gerar automaticamente meu TG consolidado em formato **Markdown
   
  <img width="754" height="501" alt="image" src="https://github.com/user-attachments/assets/3c625bdf-4629-40f2-829b-a9306db7dd8f" />
 
+---
+# Metas para Sprint
 
 ---
 # ✅ Definition of Done (DoD)
