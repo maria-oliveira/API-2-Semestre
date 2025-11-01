@@ -14,6 +14,23 @@
 
 # 📝 Definition of Ready (DoR)
 
+### **US01 – Envio de Seções**
+
+**Objetivo:**  
+Como aluno, quero enviar minhas seções do TG diretamente para o orientador, para facilitar a entrega e centralizar os envios.
+
+**Requisitos Específicos:**  
+- O sistema deve permitir upload de arquivos nos formatos **.docx**, **.pdf** e **.md**.  
+- Cada envio deve exigir que o aluno informe o **nome da seção**.  
+- O sistema deve **salvar data e hora do envio**.  
+- Deve existir uma **validação de tamanho máximo do arquivo**.  
+- A tela deve ter campos: **Selecionar Seção**, **Selecionar Arquivo** e **Botão “Enviar”**.  
+- Após o envio, o aluno deve ver uma **mensagem de confirmação** e o arquivo listado na tela.
+
+<img width="731" height="492" alt="image" src="https://github.com/user-attachments/assets/afe34244-9744-4fb1-b5c1-6c67bc75cf76" />
+
+  <img width="736" height="496" alt="image" src="https://github.com/user-attachments/assets/99f6f213-f556-4278-bfd2-403ace2a5efc" />
+
 | ID | User Story | Objetivo | Requisitos Específicos |
 | --- | --- | --- | --- |
 | US01 | Envio de Seções | Como aluno, quero enviar minhas seções do TG diretamente para o orientador, para facilitar a entrega e centralizar os envios. | - Permitir upload de arquivos .docx, .pdf e .md<br>- Informar o nome da seção no envio<br>- Salvar data e hora do envio<br>- Validar tamanho máximo do arquivo<br>- Tela com campos: Selecionar Seção, Selecionar Arquivo, Botão “Enviar”<br>- Após envio, mostrar confirmação e listar arquivo |
