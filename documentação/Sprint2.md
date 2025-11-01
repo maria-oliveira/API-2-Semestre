@@ -153,20 +153,20 @@ Esta sprint cobre as funcionalidades principais do sistema **TG Control**, inclu
 ## 2. Critérios de Conclusão da Sprint
 
 ### 2.1 💻 Código e Desenvolvimento
-- O código de todas as funcionalidades foi implementado **seguindo boas práticas** e **padrões da equipe**.  
-- Todas as **regras de negócio descritas no DoR** das US01–US07 foram respeitadas.  
-- As telas principais (envio, feedback, histórico, status e geração de TG) estão **navegáveis e integradas**.  
-- O **banco de dados foi criado e está funcional**, armazenando corretamente alunos, seções, versões, feedbacks e notificações.  
-- O código foi **revisado e aprovado** em *code review*.  
-- Integração das features concluída sem causar **regressões** nas partes já implementadas.
+- O código de todas as funcionalidades foi implementado seguindo boas práticas e padrões da equipe.  
+- Todas as regras de negócio descritas no DoR das US01–US07 foram respeitadas.  
+- As telas principais (envio, feedback, histórico, status e geração de TG) estão navegáveis e integradas.  
+- O banco de dados foi criado e está funcional, armazenando corretamente alunos, seções, versões, feedbacks e notificações.  
+- O código foi revisado e aprovado em code review.  
+- Integração das features concluída sem causar regressões nas partes já implementadas.
 
 ---
 
 ### 2.2 🧪 Testes e Qualidade
-- Testes manuais foram executados para **todos os fluxos principais** (envio, feedback, geração, notificações).  
+- Testes manuais foram executados para todos os fluxos principais (envio, feedback, geração, notificações).  
 - Testes unitários básicos foram criados para as funções de controle e persistência de dados.  
-- Todos os **critérios de aceitação das US01–US07** foram validados com sucesso.  
-- Nenhum **erro crítico ou de bloqueio** permanece aberto.  
+- Todos os critérios de aceitação das US01–US07 foram validados com sucesso.  
+- Nenhum erro crítico ou de bloqueio permanece aberto.  
 - A performance e estabilidade estão adequadas para uso interno e demonstração.  
 
 ---
