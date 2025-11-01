@@ -31,9 +31,7 @@ Como aluno, quero enviar minhas seções do TG diretamente para o orientador, pa
 
   <img width="736" height="496" alt="image" src="https://github.com/user-attachments/assets/99f6f213-f556-4278-bfd2-403ace2a5efc" />
 
-| ID | User Story | Objetivo | Requisitos Específicos |
-| --- | --- | --- | --- |
-| US01 | Envio de Seções | Como aluno, quero enviar minhas seções do TG diretamente para o orientador, para facilitar a entrega e centralizar os envios. | - Permitir upload de arquivos .docx, .pdf e .md<br>- Informar o nome da seção no envio<br>- Salvar data e hora do envio<br>- Validar tamanho máximo do arquivo<br>- Tela com campos: Selecionar Seção, Selecionar Arquivo, Botão “Enviar”<br>- Após envio, mostrar confirmação e listar arquivo |
+
 | US02 | Correção e Feedback no Sistema | Como professor orientador, quero corrigir e devolver feedback diretamente no sistema para agilizar a orientação. | - Visualizar arquivos enviados pelo aluno<br>- Campo de texto para comentários<br>- Professor não edita o arquivo<br>- Botão “Enviar Feedback” salva comentário e marca seção como “Com Feedback”<br>- Feedback visível ao aluno na seção correspondente<br>- Registrar data e autor do feedback |
 | US03 | Acesso a Versões Anteriores | Como professor de TG/Orientador, quero acessar versões anteriores das seções enviadas para acompanhar a evolução do trabalho do aluno. | - Cada upload gera nova versão<br>- Armazenar número da versão (v1, v2...) e data<br>- Professor pode visualizar e baixar versões anteriores<br>- Interface com aba/botão “Histórico de Versões” |
 | US04 | Notificações | Aluno: ser notificado quando houver feedback.<br>Professor: ser notificado quando houver nova versão. | - Notificações no sistema e opcional por e-mail<br>- Texto padrão aluno: “Sua seção X foi revisada pelo orientador.”<br>- Texto padrão professor: “O aluno X enviou uma nova versão da seção Y.”<br>- Geradas automaticamente ao enviar feedback ou nova seção<br>- Armazenamento e painel de notificações |
