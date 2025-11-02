@@ -53,6 +53,12 @@ Como professor de TG, quero revisar e aprovar os cadastros realizados por alunos
 ---
 # 📈 Metas para Sprint
 
+O foco da Sprint 3 é aprimorar o sistema TG Control com funcionalidades voltadas para o controle das etapas finais do Trabalho de Graduação e a gestão segura de usuários. Nesta sprint, o objetivo principal é permitir que os professores possam organizar as defesas de forma eficiente, garantindo que apenas alunos com o TG aprovado possam agendar sua apresentação. O sistema deve fornecer ferramentas para registrar todas as informações importantes, como data, hora, local e composição da banca, além de evitar conflitos de horários e locais para diferentes defesas. Os alunos e membros da banca devem receber notificações automáticas sobre os agendamentos, e o professor deve ter a possibilidade de alterar ou cancelar os agendamentos sempre que necessário. A visualização das defesas deve ser clara e intuitiva, seja em formato de calendário ou lista, com opções de filtro por aluno, data ou banca.
+
+Além disso, a sprint contempla o controle de cadastros de usuários no sistema. Professores devem ser capazes de revisar novos registros de alunos e outros docentes, garantindo que apenas pessoas autorizadas tenham acesso. O sistema precisa permitir aprovar ou rejeitar cadastros, registrar a ação, e notificar o usuário sobre a decisão. Cadastros rejeitados devem ser mantidos para fins de auditoria, sem permitir login, e a interface deve oferecer filtros e ferramentas de pesquisa para facilitar a gestão de todos os cadastros pendentes.
+
+Com essas melhorias, ao final da Sprint 3, o TG Control terá maior controle sobre o processo final do TG, assegurando organização, segurança e transparência tanto para professores quanto para aluno
+
 ---
 # ✅ Definition of Done (DoD)
 
