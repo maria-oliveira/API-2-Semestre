@@ -47,6 +47,46 @@ Como professor de TG, quero revisar e aprovar os cadastros realizados por alunos
 ---
 # ✅ Definition of Done (DoD)
 
+## 1. Escopo da Sprint
+Esta sprint cobre as novas funcionalidades do sistema **TG Control**, incluindo:  
+- Agendamento de defesas de TCC pelos professores.  
+- Revisão e aprovação de cadastros de alunos e professores.  
+
+---
+
+## 2. Critérios de Conclusão da Sprint
+
+### 2.1 💻 Código e Desenvolvimento
+- O código das funcionalidades de agendamento de defesas e aprovação de cadastros foi implementado conforme as regras de negócio descritas no DoR das US08 e US09.  
+- O módulo de agendamento permite selecionar aluno, data, hora, local e banca, com verificação de conflitos de horário e gravação correta no banco de dados.  
+- A funcionalidade de revisão de cadastros permite listar, aprovar e rejeitar usuários, registrando data, hora e responsável pela ação.  
+- O sistema envia notificações automáticas para alunos, professores e banca conforme definido.  
+- O código foi revisado e aprovado em code review sem falhas críticas.  
+- As novas features foram integradas ao sistema principal sem quebrar funcionalidades anteriores.  
+- O banco de dados foi atualizado para incluir as novas tabelas e relações necessárias (Defesas, Aprovações de Usuários, etc.).  
+
+---
+
+### 2.2 🧪 Testes e Qualidade
+- Testes manuais confirmam o funcionamento completo do agendamento de defesas, incluindo criação, edição, cancelamento e notificação.  
+- Testes manuais e unitários garantem a aprovação e rejeição de cadastros, com bloqueio correto de acesso para usuários não aprovados.  
+- Todos os critérios de aceitação das US08 e US09 foram validados com sucesso.  
+- Nenhum erro crítico permanece aberto nas novas implementações.  
+- O sistema mantém estabilidade e performance adequadas após a integração das novas features.  
+- Logs de auditoria são gerados corretamente para ações de aprovação, rejeição e agendamento.  
+
+---
+
+### 2.3 🎨 Usabilidade e Interface
+- As telas de Agendamento de Defesas e Revisão de Cadastros seguem o mesmo padrão visual das demais partes do sistema.  
+- Campos obrigatórios (aluno, data, hora, local, banca, status de aprovação) possuem validação visual e mensagens de erro adequadas.  
+- O layout das telas é intuitivo, consistente e responsivo, garantindo boa experiência tanto para professores quanto alunos.  
+- Ícones, cores e mensagens refletem corretamente os status de ações:  
+  - Agendado, Editado, Cancelado (para defesas).  
+  - Pendente, Aprovado, Rejeitado (para cadastros).  
+- Mensagens de confirmação e sucesso aparecem após cada ação concluída (ex.: “Defesa agendada com sucesso”, “Cadastro aprovado com sucesso”).  
+
+
 ---
 
 # 📊 Burndown da Sprint
