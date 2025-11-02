@@ -6,7 +6,7 @@
 
 <div align="center">
   
-[📄 Descrição do projeto](./DESCRICAO.md) | [💻 Tecnologias Utilizadas](./TECNOLOGIAS.md) | [📋 Backlog do Produto](./BACKLOG_PRODUTO.md) | [📅 Cronograma das Sprints](./SPRINTS.md) | 
+[📄 Descrição do projeto](./Descrição.md) | [💻 Tecnologias Utilizadas](./TECNOLOGIAS.md) | [📋 Backlog do Produto](./BACKLOG_PRODUTO.md) | [📅 Cronograma das Sprints](./SPRINTS.md) | 
 [📖 Manual de Instalação](./BACKLOG_SPRINT.md) | [📝 Documentação](./documentacao/) | [💾 Código](./codigo/) | [👥 Equipe](./EQUIPE.md)
 </div>
 
