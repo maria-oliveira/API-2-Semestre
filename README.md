@@ -6,10 +6,8 @@
 
 <div align="center">
   
-  [[Descrição do projeto](./DESCRICAO.md) | [Tecnologias Utilizadas](./TECNOLOGIAS.md) | [Funcionalidades](./FUNCIONALIDADES.md) | [Backlog do Produto](./BACKLOG_PRODUTO.md) | [Backlog da Sprint](./BACKLOG_SPRINT.md) | [User Stories](./USER_STORIES.md) | [Sprints](./SPRINTS.md) | [Documentação](./documentacao/) | [Código](./codigo/) | [Equipe](./EQUIPE.md)
-  
-[📄 Descrição do projeto](./Descrição.md) | [💻 Tecnologias Utilizadas](./TECNOLOGIAS.md) | [📋 Backlog do Produto](./BACKLOG_PRODUTO.md) | [📅 Cronograma das Sprints](./SPRINTS.md) | 
-[📖 Manual de Instalação](./BACKLOG_SPRINT.md) | [📝 Documentação](./documentacao/) | [💾 Código](./codigo/) | [👥 Equipe](./EQUIPE.md)
+
+[📄 Descrição do Projeto](#descrição) | [💻 Tecnologias Utilizadas](#tecnologias-utilizadas) | [📋 Backlog do Produto](#backlog-do-produto) | [📅 Cronograma das Sprints](#cronograma-das-sprints) | [📖 Manual de Instalação](#-manual-de-instalação) | [📝 Documentação do Projeto](#-documentação-do-projeto) | [👥 Equipe](#equipe)
 </div>
 
 ## Descrição
