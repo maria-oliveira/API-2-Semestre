@@ -13,7 +13,7 @@
 **Objetivo:**  
 Como professor de TG, quero agendar as defesas dos alunos que concluíram o Trabalho de Graduação, para organizar as apresentações e facilitar o acompanhamento das etapas finais do processo.
 
-## Requisitos Específicos:
+**Requisitos Específicos:**
 - O sistema deve permitir ao professor criar agendamentos de defesa apenas para alunos com o TG no status **“Aceito”**.  
 - O professor deve informar obrigatoriamente: **aluno, data, hora, local** e **banca avaliadora**.  
 - O sistema deve validar **conflitos de data e horário**, impedindo o agendamento de duas defesas no mesmo local e horário.  
@@ -30,7 +30,7 @@ Como professor de TG, quero agendar as defesas dos alunos que concluíram o Trab
 **Objetivo:**  
 Como professor de TG, quero revisar e aprovar os cadastros realizados por alunos e outros professores no sistema, para garantir que apenas usuários autorizados tenham acesso e evitar cadastros indevidos.
 
-## Requisitos Específicos:
+**Requisitos Específicos:**
 - O sistema deve listar todos os **cadastros pendentes de aprovação** (alunos e professores).  
 - Cada cadastro deve exibir: **nome completo, e-mail institucional, tipo de usuário (aluno ou professor)** e **data do cadastro**.  
 - O professor deve ter as opções **“Aprovar”** ou **“Rejeitar”** o cadastro.  
