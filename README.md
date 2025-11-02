@@ -4,7 +4,10 @@
 
 ## Tópicos
 
-[[Descrição do projeto](./DESCRICAO.md) | [Tecnologias Utilizadas](./TECNOLOGIAS.md) | [Funcionalidades](./FUNCIONALIDADES.md) | [Backlog do Produto](./BACKLOG_PRODUTO.md) | [Backlog da Sprint](./BACKLOG_SPRINT.md) | [User Stories](./USER_STORIES.md) | [Sprints](./SPRINTS.md) | [Documentação](./documentacao/) | [Código](./codigo/) | [Equipe](./EQUIPE.md)
+<div align="center">
+[📄 Descrição do projeto](./DESCRICAO.md) | [💻 Tecnologias Utilizadas](./TECNOLOGIAS.md) | [📋 Backlog do Produto](./BACKLOG_PRODUTO.md) | [📅 Cronograma das Sprints](./SPRINTS.md) | 
+[📖 Manual de Instalação](./BACKLOG_SPRINT.md) | [📝 Documentação](./documentacao/) | [💾 Código](./codigo/) | [👥 Equipe](./EQUIPE.md)
+</div>
 
 ## Descrição
 
