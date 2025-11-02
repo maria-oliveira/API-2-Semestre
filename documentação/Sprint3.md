@@ -43,7 +43,12 @@ Como professor de TG, quero revisar e aprovar os cadastros realizados por alunos
 - O sistema deve registrar data, hora e autor da ação (quem aprovou/rejeitou).  
 - O usuário deve receber uma notificação por e-mail informando o resultado da revisão.  
 - Cadastros rejeitados devem permanecer armazenados para auditoria, mas sem permissão de acesso.  
-- A tela deve permitir filtrar e pesquisar cadastros por nome, tipo de usuário, status e data.  
+- A tela deve permitir filtrar e pesquisar cadastros por nome, tipo de usuário, status e data.
+
+<img width="709" height="469" alt="image" src="https://github.com/user-attachments/assets/08bba8e8-8e61-4847-9201-4ab5ceacb693" />
+<img width="791" height="530" alt="image" src="https://github.com/user-attachments/assets/44d31c95-4a02-4ca1-8dc4-450aa659b720" />
+
+
 
 ---
 # 📈 Metas para Sprint
