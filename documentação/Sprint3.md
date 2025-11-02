@@ -8,7 +8,7 @@
 
 # 📝 Definition of Ready (DoR)
 
-# US08 – Agendamento de Defesas
+### US08 – Agendamento de Defesas
 
 **Objetivo:**  
 Como professor de TG, quero agendar as defesas dos alunos que concluíram o Trabalho de Graduação, para organizar as apresentações e facilitar o acompanhamento das etapas finais do processo.
@@ -25,7 +25,7 @@ Como professor de TG, quero agendar as defesas dos alunos que concluíram o Trab
 
 ---
 
-# US09 – Revisão e Aprovação de Cadastros
+### US09 – Revisão e Aprovação de Cadastros
 
 **Objetivo:**  
 Como professor de TG, quero revisar e aprovar os cadastros realizados por alunos e outros professores no sistema, para garantir que apenas usuários autorizados tenham acesso e evitar cadastros indevidos.
