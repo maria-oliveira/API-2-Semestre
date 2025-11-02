@@ -21,7 +21,11 @@ Como professor de TG, quero agendar as defesas dos alunos que concluíram o Trab
 - Após o agendamento, o sistema deve enviar notificações ao aluno e aos membros da banca, informando data, hora e local da defesa.  
 - O professor deve poder editar ou cancelar o agendamento antes da data da defesa.  
 - O aluno deve visualizar em sua área do sistema os detalhes da defesa (data, hora, local e banca).  
-- O sistema deve exibir todos os agendamentos em uma tela de calendário ou lista de defesas, com filtros por aluno, data ou banca.  
+- O sistema deve exibir todos os agendamentos em uma tela de calendário ou lista de defesas, com filtros por aluno, data ou banca.
+
+<img width="645" height="435" alt="image" src="https://github.com/user-attachments/assets/0a5baa54-537c-4e04-a34b-ee1d768a658d" />
+<img width="645" height="429" alt="image" src="https://github.com/user-attachments/assets/aa7bf6a2-8b48-46e0-a25a-c5d2f3e77d08" />
+
 
 ---
 
