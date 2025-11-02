@@ -20,6 +20,7 @@ Gerenciar o ciclo dos Trabalhos de Graduação (TG) da modalidade Portfólio é 
 ## Tecnologias Utilizadas
 
 [![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)](https://www.java.com/)  [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/) [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](https://www.figma.com/) [![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)](https://www.atlassian.com/software/jira) [![Scene Builder](https://img.shields.io/badge/Scene%20Builder-0091EA?logo=java&logoColor=white)](https://gluonhq.com/products/scene-builder/) [![JavaFX](https://img.shields.io/badge/JavaFX-FF0000?logo=openjdk&logoColor=white)](https://openjfx.io/)
+
 ## Backlog do produto
 
 | Rank | Prioridade | User Story | Estimativa | Sprint |
@@ -50,7 +51,7 @@ Gerenciar o ciclo dos Trabalhos de Graduação (TG) da modalidade Portfólio é 
 
 ## 📖 Manual de Instalação
 
-# Pré-requisitos
+### Pré-requisitos
 
 Antes de iniciar, certifique-se de ter os seguintes programas instalados:
 
@@ -62,11 +63,11 @@ Antes de iniciar, certifique-se de ter os seguintes programas instalados:
 
 ---
 
-## 🔹 Git
+### 🔹 Git
 
 O Git é um sistema de controle de versão distribuído, usado para gerenciar projetos de software.
 
-### Instalação:
+**Instalação:**
 
 1. Acesse o site oficial: **[Download Git](https://git-scm.com/downloads)**
 2. Escolha a versão compatível com seu sistema operacional (Windows, macOS, Linux).
@@ -78,11 +79,11 @@ git --version
 
 ---
 
-## Java (JDK)
+### Java (JDK)
 
 O Java é necessário para rodar o backend e algumas ferramentas como o Maven.
 
-###  Instalação:
+**Instalação:**
 
 1. Acesse: **[Download Java JDK](https://www.oracle.com/java/technologies/javase-downloads.html)**
 2. Baixe a versão Java SE Development Kit (18 ou superior).
@@ -94,11 +95,11 @@ java -version
 
 ---
 
-##  Maven
+###  Maven
 
 O Maven é uma ferramenta de automação e gerenciamento de dependências para projetos Java.
 
-### Instalação:
+**Instalação:**
 
 1. Baixe em: **[Download Maven](https://maven.apache.org/download.cgi)**
 2. Extraia o arquivo `.zip` em uma pasta (ex: `C:\apache-maven`).
@@ -111,11 +112,11 @@ mvn -version
 
 ---
 
-## IntelliJ IDEA
+### IntelliJ IDEA
 
 O IntelliJ IDEA é a IDE recomendada para trabalhar com projetos Java.
 
-### Instalação:
+**Instalação:**
 
 1. Baixe em: **[Download IntelliJ IDEA](https://www.jetbrains.com/idea/download/)**
 2. Escolha entre a versão **Community** (gratuita) ou **Ultimate** (paga, com mais recursos).
@@ -127,11 +128,11 @@ O IntelliJ IDEA é a IDE recomendada para trabalhar com projetos Java.
 
 ---
 
-## MySQL Workbench
+### MySQL Workbench
 
 O MySQL Workbench é uma interface gráfica para gerenciar o banco de dados MySQL.
 
-###  Instalação:
+**Instalação:**
 
 1. Baixe em: **[Download MySQL Workbench](https://dev.mysql.com/downloads/workbench/)**
 2. Escolha a versão compatível com seu sistema.
