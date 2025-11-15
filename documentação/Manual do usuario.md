@@ -282,20 +282,3 @@ Acesse "Painel Gerencial" para:
 **Última Atualização:** Novembro 2025  
 **Desenvolvido por:** TechForce
 
----
-
-## 📄 Licença
-
-Este projeto está sob licença da Fatec TechForce.
-
----
-
-## 🤝 Contribuindo
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
-
----
-
-## 📧 Contato
-
-Para mais informações, entre em contato com a equipe TechForce.
