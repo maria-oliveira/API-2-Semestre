@@ -180,3 +180,7 @@ Esta sprint cobre as funcionalidades principais do sistema **TG Control**, inclu
 ---
 
 # 📊 Burndown da Sprint
+
+
+https://github.com/user-attachments/assets/341156ee-4ed4-4eb6-9c90-8fc0216c65b7
+
